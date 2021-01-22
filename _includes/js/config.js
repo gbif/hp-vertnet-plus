@@ -2,7 +2,9 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   primary: themeStyle.colors.primary
 }});
 
-var siteConfig = {
-  rootPredicate: { type: 'equals', key: 'taxonKey', value: 44 },
-  rootPredicate: { type: 'equals', key: 'networkKey', value: '99d66b6c-9087-452f-a9d4-f15f2c2d0e7e' }
+var siteConfig = { 
+  "type": "and", "predicates": [
+ { "type": "equals", "key": "NETWORK_KEY", "value": "99d66b6c-9087-452f-a9d4-f15f2c2d0e7e"},
+ { "type": "equals", "key": "TAXON_KEY", "value": "44"}
+ ]
 };
