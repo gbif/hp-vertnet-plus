@@ -17,6 +17,8 @@
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
   - text: BlaBla I'm French!
-  - href: /blabla
+    href: /blabla/
 - text: News
   href: /news/
+- text: I'm Still French
+  href: /blabla/
