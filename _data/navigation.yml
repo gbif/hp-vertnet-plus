@@ -12,7 +12,25 @@
     href: /data
   - text: VertNet Plus Help
     href: /plushelp
-- text: Links
+- text: Publishers
+  href: https://www.gbif.org/occurrence/2611271125
+- text: Resources
+  menu: #Dropdown menu
+  - text: VertNet Norms
+    href: 
+  - text: Georeferencing
+    href:
+  - text: Datasets, Tools, Code
+    href: 
+  - text: Publications
+    href: 
+- text: Work With Us
+  href: 
+- text: About
+  href: 
+- text:Feedback
+  href
+# - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -26,7 +44,7 @@
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
   - text: BlaBla I'm French!
     href: /blabla/
-- text: News
+# - text: News
   href: /news/
-- text: I'm Still French
+# - text: I'm Still French
   href: /blabla/
