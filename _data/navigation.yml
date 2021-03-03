@@ -1,5 +1,17 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Search Classic
+  menu: # Dropdown menu (one level deep only)
+  - text: Classic Search
+    href: http://portal.vertnet.org/search
+  - text: Classic Portal Help
+    href: /classichelp
+- text: Search Plus (NEW)
+  menu: # Dropdown menu (one level deep only)
+  - text: VertNet Plus Search
+    href: /data
+  - text: VertNet Plus Help
+    href: /plushelp
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
