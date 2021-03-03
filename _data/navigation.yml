@@ -20,7 +20,7 @@
     href: /vnnorms.md
   - text: Georeferencing
     href: http://georeferencing.org/
-  - text: Datasets, Tools, Code
+  - text: Datasets & Tools
     href: /datatoolscode.md
   - text: Publications
     href: /publications.md
@@ -28,7 +28,7 @@
   href: /workwithus.md
 - text: About
   href: /about.md
-- text:Feedback
+- text: Feedback
   href: /feedback.md
 - text: Links
   menu: # Dropdown menu (one level deep only)
