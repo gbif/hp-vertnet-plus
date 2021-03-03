@@ -15,13 +15,13 @@
 - text: Publishers
   href: https://www.gbif.org/occurrence/2611271125
 - text: Resources
-  menu: #Dropdown menu
+  menu: # Dropdown menu
   - text: VertNet Norms
     href: /vnnorms.md
   - text: Georeferencing
     href: http://georeferencing.org/
   - text: Datasets, Tools, Code
-    href: d/atatoolscode.md
+    href: /atatoolscode.md
   - text: Publications
     href: /publications.md
 - text: Work With Us
