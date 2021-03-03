@@ -30,7 +30,7 @@
   href: /about.md
 - text: Feedback
   href: /feedback.md
-- text: Links
+# - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -44,7 +44,7 @@
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
   - text: BlaBla I'm French!
     href: /blabla/
-- text: News
+# - text: News
   href: /news/
-- text: I'm Still French
+# - text: I'm Still French
   href: /blabla/
