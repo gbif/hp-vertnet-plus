@@ -17,20 +17,20 @@
 - text: Resources
   menu: #Dropdown menu
   - text: VertNet Norms
-    href: 
+    href: /vnnorms.md
   - text: Georeferencing
-    href:
+    href: http://georeferencing.org/
   - text: Datasets, Tools, Code
-    href: 
+    href: d/atatoolscode.md
   - text: Publications
-    href: 
+    href: /publications.md
 - text: Work With Us
-  href: 
+  href: /workwithus.md
 - text: About
-  href: 
+  href: /about.md
 - text:Feedback
-  href
-# - text: Links
+  href: /feedback.md
+- text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -44,7 +44,7 @@
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
   - text: BlaBla I'm French!
     href: /blabla/
-# - text: News
+- text: News
   href: /news/
-# - text: I'm Still French
+- text: I'm Still French
   href: /blabla/
