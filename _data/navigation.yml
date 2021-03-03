@@ -1,9 +1,17 @@
-# Links listed below will be included in your site's navbar (navigation at the top)
+a# Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about
-- text: Data
-  href: /data
+- text: Search Classic
+  menu: # Dropdown menu
+  - text: Classic Search
+    href: http://portal.vertnet.org/search
+  - text: Classic Portal Help
+    href: # page pending
+- text: Search Plus (NEW)
+  menu: # Dropdown menu
+  - text: VertNet Plus Search
+    href: /data
+  - text: VertNet Plus Help
+    href: # page pending
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
