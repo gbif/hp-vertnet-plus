@@ -12,7 +12,7 @@ cta:
     isPrimary: true
   - text: VertNet Classic
     href: http://portal.vertnet.org/search
-  - text: About
+#  - text: About
     href: /about
 permalink: /
 ---
