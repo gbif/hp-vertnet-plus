@@ -5,7 +5,7 @@ title: Welcome to VertNet
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background: /assets/images/RedSand_Vertebrae.png
 # (sample of html link) background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
-# imageLicense: [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | *USNM PAL 451942*. Photo by Michael Brett-Surman. [Smithsonian Institution, NMNH Paleobiology](https://www.gbif.org/occurrence/1316689934)
+imageLicense: "[CC0](http://creativecommons.org/publicdomain/zero/1.0/) | *USNM PAL 451942*. Photo by Michael Brett-Surman. [Smithsonian Institution, NMNH Paleobiology](https://www.gbif.org/occurrence/1316689934)"
 cta:
   - text: VertNet Plus
     href: /data
