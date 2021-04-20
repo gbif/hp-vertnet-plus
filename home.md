@@ -5,7 +5,7 @@ title: Welcome to VertNet
 description: Biodiversity data with backbone!
   Come on in and have a look around.
 background: /assets/images/RedSandVertebrae_1316689934_Cropped.png
-imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
+imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.caption}}"
 cta:
   - text: VertNet Plus
     href: /data
