@@ -4,9 +4,9 @@ layout: home
 title: Welcome to VertNet
 description: Biodiversity data with backbone!
   Come on in and have a look around.
-background: /assets/images/RedSand_Vertebrae.png
+background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
 # (sample of html link) background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
-imageLicense: "[CC0](http://creativecommons.org/publicdomain/zero/1.0/) | *USNM PAL 451942*. Photo by Michael Brett-Surman. [Smithsonian Institution, NMNH Paleobiology](https://www.gbif.org/occurrence/1316689934)"
+imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
 cta:
   - text: VertNet Plus
     href: /data
