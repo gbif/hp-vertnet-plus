@@ -4,8 +4,7 @@ layout: home
 title: Welcome to VertNet
 description: Biodiversity data with backbone!
   Come on in and have a look around.
-background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
-# (sample of html link) background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: /assets/images/RedSandVertebrae_1316689934_Cropped.png
 imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
 cta:
   - text: VertNet Plus
