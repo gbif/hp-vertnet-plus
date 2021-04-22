@@ -6,6 +6,7 @@ description: Biodiversity data with backbone!
   Come on in and have a look around.
 background: /assets/images/RedSandVertebrae_1316689934_Cropped.png
 imageLicense: "[*USNM PAL 451942*](https://www.gbif.org/occurrence/1316689934) Metriorhynchidae collected in Cuba, image by Michael Brett-Surman (licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))"
+height: 75vh
 cta:
   - text: VertNet Plus
     href: /data
