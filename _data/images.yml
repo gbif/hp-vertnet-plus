@@ -7,6 +7,16 @@ RedSandVertebrae_1316689934_Cropped:
   src: assets/images/RedSandVertebrae_1316689934_Cropped.png
   caption: "[*USNM PAL 451942*](https://www.gbif.org/occurrence/1316689934) Metriorhynchidae collected in Cuba, image by Michael Brett-Surman (licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))"
 
+Meerkats:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/106116471/original.jpg?1606740795
+  caption: "[*Suricata suricatta* (Schreber, 1776)](https://www.gbif.org/occurrence/2992819919) observed in South America by lassearp (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+  
+  
+  
+  
+  
+  
+  
 Demo:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111359906/original.jpg?1611858020
   caption: "[*Castor canadensis* Kuhl, 1820](https://www.gbif.org/occurrence/3031762993) observed in United States of America by Doug D. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
