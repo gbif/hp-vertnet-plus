@@ -1,5 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: About
+  href: /about
 - text: Search (NEW)
   href: /data
 - text: Publishers
@@ -16,8 +18,6 @@
     href: /publications
 - text: Work With Us
   href: /workwithus
-- text: About
-  href: /about
 - text: Feedback
   href: /feedback
 # - text: Links
