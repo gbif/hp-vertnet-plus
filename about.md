@@ -3,7 +3,7 @@ lang-ref: about
 title: About
 description: We strive to make the lives of people who work with biodiversity data more productive by providing tools and services to make data easy to find, easy to publish, and easy to use.
 background: "{{site.data.images.Meerkats.src}}"
-imageLicense: "{{site.data.images.Meerkats.caption}}
+imageLicense: "{{site.data.images.Meerkats.caption}}"
 height: 70vh
 ---
 
