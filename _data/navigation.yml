@@ -7,19 +7,19 @@
 - text: Resources
   menu: # Dropdown menu
   - text: VertNet Norms
-    href: /vnnorms.md
+    href: /vnnorms
   - text: Georeferencing
     href: http://georeferencing.org/
   - text: Datasets & Tools
-    href: /datatoolscode.md
+    href: /datatoolscode
   - text: Publications
-    href: /publications.md
+    href: /publications
 - text: Work With Us
-  href: /workwithus.md
+  href: /workwithus
 - text: About
-  href: /about.md
+  href: /about
 - text: Feedback
-  href: /feedback.md
+  href: /feedback
 # - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
