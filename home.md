@@ -11,7 +11,7 @@ cta:
   - text: VertNet Plus
     href: /data
     isPrimary: true
-  - text: VertNet Classic
+#  - text: VertNet Classic
     href: http://portal.vertnet.org/search
 #  - text: About
     href: /about
