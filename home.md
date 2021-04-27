@@ -8,7 +8,7 @@ background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
 imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.caption}}"
 height: 75vh
 cta:
-  - text: VertNet Plus
+  - text: Search
     href: /data
     isPrimary: true
 #  - text: VertNet Classic
