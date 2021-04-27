@@ -4,8 +4,8 @@ layout: home
 title: Welcome to VertNet
 description: Biodiversity data with backbone!
   Come on in and have a look around.
-background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.png.src}}"
-imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.png.caption}}"
+background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
+imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.caption}}"
 height: 75vh
 cta:
   - text: VertNet Plus
