@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: We strive to make the lives of people who work with biodiversity data more productive by providing tools and services to make data easy to find, easy to publish, and easy to use.
 background: "{{site.data.images.Meerkats.src}}"
 imageLicense: "{{site.data.images.Meerkats.caption}}
 height: 70vh
@@ -11,14 +11,10 @@ height: 70vh
 
 VertNet is a collaborative project, formerly funded by the U.S. National Science Foundation, that makes biodiversity data free and available on the web. VertNet is a tool designed to help people discover, capture, and publish all biodiversity data (not just vertebrates). It is also the core of a collaboration between hundreds of biocollections that contribute biodiversity data and work together to improve it. VertNet is an engine for training current and future professionals to use and build upon best practices in data quality, curation, research, and data publishing. Yet, VertNet is still the aggregate of all of the information that it mobilizes. To us, VertNet is all of these things and more.
 
+
 ## What we do
 
-We strive to make the lives of people who work with biodiversity data more productive by providing tools and services to make data easy to find, easy to publish, and easy to use.
-
-## How we do it:
-
 Temptext: Something pithy
-
 
 | Data Mobilization | Education | Product Development | Reasearch | Consulting/Support | Standards |
 | ----------- | ----------- | ----------- | -------------- | --------------- | ------------- |
