@@ -25,24 +25,27 @@ Temptext: Something pithy
 ## The Core VertNet Team
 
 We are a group of like-minded individuals with diverse knowledge and skill sets:
-* David Bloom, Project Coordinator
+* David Bloom, Project Coordinator [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
 * Sharon Grant, Guardian Angel (Technology Liaison to Science @ The Field Museum) [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
-* Rob Guralnick, Muckraker (Professor, Curator of Biodiversity Informatics @ the Univ. of Florida/FLMNH)
-* Marie Elise Lecoq, Living Atlases, Technical Advisor
-* John Wieczorek, Information Architect
-* Paula Zermoglio, Research Lead (Post-doc position?)
+* Rob Guralnick, Muckraker (Professor, Curator of Biodiversity Informatics @ the Univ. of Florida/FLMNH) [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-6682-1504)
+* Marie Elise Lecoq, Living Atlases, Technical Advisor [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-8481-9034)
+* John Wieczorek, Information Architect [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1144-0290)
+* Paula Zermoglio, Research Lead [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6056-5084)
 
 
 ## VertNet Accomplices and Confederates
 
 We wouldn't be who we are without an amazing group of active partners and collaborators:
 
-* Peter Desmet
-* Steve Baskauf
-* Kitty? Rafe? Laura B?
-* Arthur Chapman
-* Laura Russell, GBIF
-* Who else? Deck? SPREP?
+* Steve Baskauf, Venderbuilt University [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-4365-3135)
+* Laura Brenskelle, FLMNH/Univ. of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-9284-8871)
+* Arthur Chapman, Global Nomad [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1700-6962)
+* Peter Desmet, INBO [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-8442-8025)
+* Kitty Emery, FLMNH/University of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4031-1968)
+* Rafael LaFrance, FLMNH/Univ. of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}]()
+* Laura Russell, GBIF [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1920-5298)
+* Ramona Walls, .... [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8815-0078)
+* Rob Zschernitz, The Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8777-7143)
 
 ## Honorary Pantheon of The Backbone
 
@@ -63,3 +66,4 @@ We wish to recognize all of those individuals upon whose shoulders we now stand.
 * Steve Kelling, Steering Committee, Cornell University
 * Town Peterson Steering Committee, University of Kansas
 * Nancy Simmons, Steering Committee, American Museum of Natural History
+* Barbara Stein, Lead PI MaNIS, University of California, Berkeley
