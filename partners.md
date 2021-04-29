@@ -6,16 +6,17 @@ imageLicense: "{{site.data.images.Seadragon.caption}}"
 height: 70vh
 ---
 
-### VertNet wishes to acknowledge the U.S. National Science Foundation and the United States Geological Survey for their generous support.
+A special shout out to the following organizations for their on-going support and services.
+
+| {{/assets/images/field-museum-logo.png}} | | |
+| The Field Museum | GitHub | Carto |
+
+
+Many thanks to our project partners for their time, energy, and support.
+
+| Arctos | iDitBio | GBIF | CyVerse | DataONE |
+| AWeb | Bishop Museum | GEOLocate | KNB | rOpenSci |
+
+VertNet wishes to acknowledge the U.S. National Science Foundation and the United States Geological Survey for their generous support.
 
 | NSF Logo | USGS Logo |
-
-### A special shout out to the following organizations for their on-going support and services.
-
-| The Field Museum | GitHub | Carto | The Bishop Museum |
-
-
-### Many thanks to our project partners for their time, energy, and support.
-
-| GBIF | Arctos | DataONE | GEOLocate |
-| AWeb | iDigBio | CyVerse | KNB | rOpenSci |
