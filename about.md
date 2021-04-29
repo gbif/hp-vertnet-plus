@@ -26,7 +26,7 @@ Temptext: Something pithy
 
 We are a group of like-minded individuals with diverse knowledge and skill sets:
 * David Bloom, Project Coordinator
-* Sharon Grant, Guardian Angel (Technology Liaison to Science @ The Field Museum)
+* Sharon Grant, Guardian Angel (Technology Liaison to Science @ The Field Museum) [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
 * Rob Guralnick, Muckraker (Professor, Curator of Biodiversity Informatics @ the Univ. of Florida/FLMNH)
 * Marie Elise Lecoq, Living Atlases, Technical Advisor
 * John Wieczorek, Information Architect
@@ -35,29 +35,28 @@ We are a group of like-minded individuals with diverse knowledge and skill sets:
 
 ## VertNet Accomplices and Confederates
 
-We wouldn't be who we are without an amazing group of active partners and collaborators (RANDOM ORDER:
+We wouldn't be who we are without an amazing group of active partners and collaborators:
 
-* [Sharon Grant](https://www.fieldmuseum.org/about/staff/profile/11), Field Museum IPT Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
 * Peter Desmet
 * Steve Baskauf
 * Kitty? Rafe? Laura B?
 * Arthur Chapman
+* Laura Russell, GBIF
 * Who else? Deck? SPREP?
 
 ## Honorary Pantheon of The Backbone
 
 We wish to recognize all of those individuals upon whose shoulders we now stand. We thank them for their service, effort, humor, and snacks.
 
-* Carla Cicero, Lead PI, Steering Committee, Univrsity of California, Berkeley
+* Carla Cicero, Lead PI, Steering Committee, University of California, Berkeley
 * Hank Bart, PI, Steering Committee, Tulane University
 * Michelle Koo, Senior Personnel, University of California, Berkeley
 * Javier Otegui, Research Scholar
 * Nelson Rios, Co- PI, Barkeeper, Yale University
-* Laura Russell, Vertnet Programmer, Moral Compass, GBIF
 * Carol Spencer, Co-PI, Steering Committee, University of California Berkeley
 * Dave Vieglais, PI, Univresity of Kansas/DataONE
 * John Bates, Steering Committee, Field Museum of Natural History
-* David Blackburn, Steering Commmitte, University of Florida
+* David Blackburn, Steering Commmittee, University of Florida
 * Joe Cook, Steering Committee, University of New Mexico
 * Linda Ford, Steering Committee, Harvard University
 * Walter Jetz, Steering Committee, Yale University
