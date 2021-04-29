@@ -8,8 +8,8 @@ height: 70vh
 
 A special shout out to the following organizations for their on-going support and services.
 
-| {{/assets/images/field-museum-logo.png}} | | |
-| The Field Museum | GitHub | Carto |
+| [! [Logo] (/assets/images/Octocat-266x322.jpeg)] | [! [Logo] (/assets/images/field-museum-logo.png)] | [! [Logo] (/assets/images/CARTO-logo-positive.png)] |
+| GitHub | The Field Museum | Carto |
 
 
 Many thanks to our project partners for their time, energy, and support.
