@@ -16,6 +16,7 @@ Many thanks to our project partners for their time, energy, and support.
 
 | Arctos | FlMNH | Bishop Museum | CyVerse | iDigBio |
 | AWeb | GEOLocate | DataONE | rOpenSci | KNB |
+| | | VESS | | |
 
 VertNet wishes to acknowledge the U.S. National Science Foundation and the United States Geological Survey for their generous support.
 
