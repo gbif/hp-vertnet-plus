@@ -8,9 +8,9 @@ height: 70vh
 
 A special shout out to the following organizations for their on-going support and services.
 
-| ![](/assets/images/GitHub-Octocat-361x300.png) | [![](/assets/images/field-museum-logo-300x300.png)] | [![](/assets/images/GBIF-2015-300x199.png)] | [![](/assets/images/CARTO-logo-positive-767x300.png)] |
+| ![](/assets/images/GitHub-Octocat-361x300.png) | ![](/assets/images/field-museum-logo-300x300.png) | ![](/assets/images/GBIF-2015-300x199.png) | ![](/assets/images/CARTO-logo-positive-767x300.png) |
 |:------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------:|:------------------------:|
-| GitHub | The Field Museum | GBIF | Carto |
+| [GitHub](https://github.com/) | [The Field Museum](https://www.fieldmuseum.org/) | [GBIF](https://www.gbif.org/) | [Carto](https://carto.com/) |
 
 
 Many thanks to our project partners for their time, energy, and support.
