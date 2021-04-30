@@ -8,16 +8,9 @@ height: 70vh
 
 A special shout out to the following organizations for their on-going support and services.
 
-| [![](/assets/images/GitHub-Octocat-361x300.png)] | [![](/assets/images/field-museum-logo-300x300.png)] | [![](/assets/images/GBIF-2015-300x199.png)] | [![](/assets/images/CARTO-logo-positive-767x300.png)] |
+| [](/assets/images/GitHub-Octocat-361x300.png) | [![](/assets/images/field-museum-logo-300x300.png)] | [![](/assets/images/GBIF-2015-300x199.png)] | [![](/assets/images/CARTO-logo-positive-767x300.png)] |
 |:------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------:|:------------------------:|
 | GitHub | The Field Museum | GBIF | Carto |
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      | $12   |
-| tables        | are useful    | $1    |
 
 
 Many thanks to our project partners for their time, energy, and support.
