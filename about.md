@@ -42,7 +42,7 @@ We wouldn't be who we are without an amazing group of active partners and collab
 * Arthur Chapman, Global Nomad [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1700-6962)
 * Peter Desmet, INBO [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-8442-8025)
 * Kitty Emery, FLMNH/University of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4031-1968)
-* Rafael LaFrance, FLMNH/Univ. of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}]()
+* Rafael LaFrance, FLMNH/Univ. of Florida
 * Laura Russell, GBIF [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1920-5298)
 * Ramona Walls, .... [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8815-0078)
 * Rob Zschernitz, The Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8777-7143)
