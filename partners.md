@@ -24,10 +24,12 @@ A special shout out to the following organizations for their on-going support an
 
 Many thanks to our project partners for their time, energy, and support.
 
-| Arctos | FlMNH | Bishop Museum | CyVerse | iDigBio |
-| AWeb | GEOLocate | DataONE | rOpenSci | KNB |
-| | | VESS | | |
+| Arctos![](/assets/images/arctos-alogo_blackonwhite-513x300.png) | FlMNH![](/assets/images/) | Bishop Museum![](/assets/images/Bishop_img_logo_fulldome-300x300.jpeg) | CyVerse![](/assets/images/CyVerse-logo-482x300.jpeg) | iDigBio![](/assets/images/IDigBio_Logo_RGB-300-970.png) |
+| AWeb![](/assets/images/Aweb-logo-300x284.jpeg) | GEOLocate![](/assets/images/geolocatelogo300x430.jpeg) | DataONE![](/assets/images/) | rOpenSci![](/assets/images/ropensci_icon_lettering_color-300x544.png) | KNB![](/assets/images/knb-icon-192x192.png) |
+| | ZooArchNet![](/assets/images/zan-logo-circular_color_web-only300x300.png) | VESS![](/assets/images/) | TDWG![](/assets/images/tdwg_logo300x568.png) | |
 
 VertNet wishes to acknowledge the U.S. National Science Foundation and the United States Geological Survey for their generous support.
 
-| NSF Logo | USGS Logo |
+| NSF Logo![](/assets/images/NSF-logo300x298.png) | USGS Logo![](/assets/images/) |
+|:------------------------------------------------:|:---------------------------------------------------:|
+| [U.S. National Science Foundation](https://nsf.gov/) | [United States Geological Survey](https://www.usgs.gov/) |
