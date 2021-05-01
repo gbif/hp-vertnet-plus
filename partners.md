@@ -29,7 +29,7 @@ Many thanks to our project partners for their time, energy, and support.
 | [Arctos](https://arctosdb.org/) | [The Bishop Museum](https://bishopscience.org/) | [CyVerse](https://www.cyverse.org/) | [iDigBio](https://www.idigbio.org/) |
 | FLMNH![](/assets/images/flmnh-logo.png) | AWeb![](/assets/images/Aweb-logo-300x284.jpeg) | ZooArchNet![](/assets/images/zan-logo-circular_color_web-only300x300.png) | TDWG![](/assets/images/tdwg_logo300x568.png) |
 | [FLMNH](https://www.floridamuseum.ufl.edu/) | [AmphibiaWeb](https://amphibiaweb.org/) | [ZooArchNet](https://zooarchnet.org/) | [TDWG](https://www.tdwg.org/) |
-| DataONE![](/assets/images/) | KNB![](/assets/images/knb-icon-192x192.png) | GEOLocate![](/assets/images/geolocatelogo300x430.jpeg) | rOpenSci![](/assets/images/ropensci_icon_lettering_color-300x544.png) |
+| DataONE![](/assets/images/dataone_logo-300x455.png) | KNB![](/assets/images/knb-icon-192x192.png) | GEOLocate![](/assets/images/geolocatelogo300x430.jpeg) | rOpenSci![](/assets/images/ropensci_icon_lettering_color-300x544.png) |
 | [DataONE](https://www.dataone.org/) | [knb](https://knb.ecoinformatics.org/) | [GEOLocate](https://www.geo-locate.org/) | [rOpenSci](https://docs.ropensci.org/rvertnet/) |
 | | VESS![](/assets/images/vesslogo_website.png) | | |
 | | [VESS](https://www.vanuatuconservation.org/) | | |
