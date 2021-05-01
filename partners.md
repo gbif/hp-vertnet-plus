@@ -24,9 +24,15 @@ A special shout out to the following organizations for their on-going support an
 
 Many thanks to our project partners for their time, energy, and support.
 
-| Arctos![](/assets/images/arctos-alogo_blackonwhite-513x300.png) | FlMNH![](/assets/images/) | Bishop Museum![](/assets/images/Bishop_img_logo_fulldome-300x300.jpeg) | CyVerse![](/assets/images/CyVerse-logo-482x300.jpeg) | iDigBio![](/assets/images/IDigBio_Logo_RGB-300-970.png) |
-| AWeb![](/assets/images/Aweb-logo-300x284.jpeg) | GEOLocate![](/assets/images/geolocatelogo300x430.jpeg) | DataONE![](/assets/images/) | rOpenSci![](/assets/images/ropensci_icon_lettering_color-300x544.png) | KNB![](/assets/images/knb-icon-192x192.png) |
-| | ZooArchNet![](/assets/images/zan-logo-circular_color_web-only300x300.png) | VESS![](/assets/images/) | TDWG![](/assets/images/tdwg_logo300x568.png) | |
+| ![](/assets/images/arctos-alogo_blackonwhite-513x300.png) | Bishop Museum![](/assets/images/Bishop_img_logo_fulldome-300x300.jpeg) | CyVerse![](/assets/images/CyVerse-logo-482x300.jpeg) | iDigBio![](/assets/images/IDigBio_Logo_RGB-300-970.png) |
+|:------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------:|:------------------------:|
+| [Arctos](https://arctosdb.org/) | [The Bishop Museum](https://bishopscience.org/) | [CyVerse](https://www.cyverse.org/) | [iDigBio](https://www.idigbio.org/) |
+| FLMNH![](/assets/images/) | AWeb![](/assets/images/Aweb-logo-300x284.jpeg) | ZooArchNet![](/assets/images/zan-logo-circular_color_web-only300x300.png) | TDWG![](/assets/images/tdwg_logo300x568.png) |
+| [FLMNH](https://www.floridamuseum.ufl.edu/) | [AmphibiaWeb](https://amphibiaweb.org/) | [ZooArchNet](https://zooarchnet.org/) | [TDWG](https://www.tdwg.org/) |
+| DataONE![](/assets/images/) | KNB![](/assets/images/knb-icon-192x192.png) | GEOLocate![](/assets/images/geolocatelogo300x430.jpeg) | rOpenSci![](/assets/images/ropensci_icon_lettering_color-300x544.png) |
+| [DataONE](https://www.dataone.org/) | [knb](https://knb.ecoinformatics.org/) | [GEOLocate](https://www.geo-locate.org/) | [rOpenSci](https://docs.ropensci.org/rvertnet/) |
+| | VESS![](/assets/images/) | | |
+| | [VESS](https://www.vanuatuconservation.org/) | | |
 
 VertNet wishes to acknowledge the U.S. National Science Foundation and the United States Geological Survey for their generous support.
 
