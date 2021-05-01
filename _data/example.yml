@@ -1,0 +1,48 @@
+partners1:
+  klass: my-custom-identifier-for-styling
+  # title: Partners
+  description: |
+    A special shout out to the following organizations for their on-going support and services.
+  features:
+    - description: GitHub
+      background: /assets/images/GitHub-Octocat-361x300.png
+      href: /about
+    - description: The Field Museum
+      background: /assets/images/field-museum-logo-300x300.png
+    - description: GBIF
+      background: /assets/images/GBIF-2015-300x199.png
+    - description: Carto
+      background: /assets/images/CARTO-logo-positive-767x300.png
+partners2: 
+  markdownContent: |
+    Many thanks to our project partners for their time, energy, and support.
+
+    {: .box .some-example-logo-class}
+    ![](/assets/images/field-museum-logo-300x300.png) The field museum
+
+    <div class="tags are-medium">
+      <span class="tag"><a href="/about">Arctos</a></span>
+      <span class="tag">FlMNH</span>
+      <span class="tag">Bishop Museum</span>
+      <span class="tag">CyVerse</span>
+      <span class="tag">iDigBio</span>
+      <span class="tag">AWeb</span>
+    </div>
+
+
+partners3:
+  title: Sponsors
+  description: |
+    Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+  features:
+    - title: Some sponsor 1
+      description: |      # required
+        What our sponsor do for us - also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      # img required
+      background: https://upload.wikimedia.org/wikipedia/commons/9/92/Haeckel_Caulerpa_racemosa.JPG
+      href: /about
+    - title: Some sponsor 2
+      href: /about
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: https://upload.wikimedia.org/wikipedia/commons/8/84/Haeckel_Caulerpa_racemosa_%28uvifera%29.jpg

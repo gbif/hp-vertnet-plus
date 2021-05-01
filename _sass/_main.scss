@@ -1,3 +1,15 @@
 @import "theme/_main";
 
 // You can add additional styling here
+.my-custom-identifier-for-styling {
+  border: 10px solid gold;
+  border-width: 10px 0;
+}
+.some-example-logo-class {
+  display: flex;
+  align-items: flex-start;
+  img {
+    width: 60px;
+    margin-right: 12px;
+  }
+}

@@ -4,6 +4,15 @@ title: Project Partners
 background: "{{site.data.images.Seadragon.src}}"
 imageLicense: "{{site.data.images.Seadragon.caption}}"
 height: 70vh
+composition:
+- type: heroBox
+- type: pageMarkdown # This will render the markdown in this file
+- type: stats
+  data: example.partners1
+- type: markdown
+  data: example.partners2
+- type: features
+  data: example.partners3
 ---
 
 A special shout out to the following organizations for their on-going support and services.
