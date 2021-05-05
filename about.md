@@ -43,6 +43,7 @@ We wouldn't be who we are without an amazing group of active partners and collab
 * Peter Desmet, INBO [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-8442-8025)
 * Kitty Emery, FLMNH/University of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4031-1968)
 * Rafael LaFrance, FLMNH/Univ. of Florida
+* Anabela Plos, Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" - MACN-CONICET / GBIF Argentina
 * Laura Russell, GBIF [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1920-5298)
 * Ramona Walls, Bio5 Institute, University of Arizona [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8815-0078)
 * Rob Zschernitz, The Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8777-7143)
@@ -55,9 +56,9 @@ We wish to recognize all of those individuals upon whose shoulders we now stand.
 * Hank Bart, PI, Steering Committee, Tulane University
 * Michelle Koo, Senior Personnel, University of California, Berkeley
 * Javier Otegui, Research Scholar
-* Nelson Rios, Co- PI, Barkeeper, Yale University
+* Nelson Rios, Co-PI, Barkeeper, Yale University
 * Carol Spencer, Co-PI, Steering Committee, University of California Berkeley
-* Dave Vieglais, PI, Univresity of Kansas/DataONE
+* Dave Vieglais, PI, University of Kansas/DataONE
 * John Bates, Steering Committee, Field Museum of Natural History
 * David Blackburn, Steering Commmittee, University of Florida
 * Joe Cook, Steering Committee, University of New Mexico
@@ -67,3 +68,4 @@ We wish to recognize all of those individuals upon whose shoulders we now stand.
 * Town Peterson Steering Committee, University of Kansas
 * Nancy Simmons, Steering Committee, American Museum of Natural History
 * Barbara Stein, Lead PI MaNIS, University of California, Berkeley
+* Heather Constable, University of California, Berkeley
