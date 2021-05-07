@@ -8,5 +8,5 @@ var siteConfig = {
      { "type": "equals", "key": "taxonKey", "value": "44"}
   ]},
   highlightedFilters: ['basisOfRecord','taxonKey','gadmGid','institutionCode','year' ],
-  blacklistedFilters: ['protocol']
+  excludedFilters: ['protocol']
 };
