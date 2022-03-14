@@ -36,6 +36,6 @@ Many thanks to our project partners for their time, energy, and support.
 
 VertNet wishes to acknowledge the U.S. National Science Foundation and the United States Geological Survey for their generous support.
 
-| ![](/assets/images/NSF-logo300x298.png) | ![](/assets/images/usgslogo-150x178.jpeg) |
+| ![](/assets/images/NSF-logo300x298.png) | ![]<p valign="center"> (/assets/images/usgslogo-150x178.jpeg) |
 |:------------------------------------------------:|:---------------------------------------------------:|
 | [U.S. National Science Foundation](https://nsf.gov/) | [United States Geological Survey](https://www.usgs.gov/) |
