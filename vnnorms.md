@@ -74,13 +74,13 @@ In the absence of a citation practice that takes precedence, we recommend the fo
 ### GENERAL FORMAT
 <span style="background-color: #ededed">\[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])</span>
 
-### EXAMPLE
+#### EXAMPLE
 <mark>Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)</mark>
 
-AGGREGATED DATA (FROM MULTIPLE DATASETS)
+### AGGREGATED DATA (FROM MULTIPLE DATASETS)
 Cite each data publisher in the aggregate using the single dataset citation format described above.
 
-### EXAMPLE
+EXAMPLE
 Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
 University of Kansas Bird Collection. University of Kansas Biodiversity Institute. http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_ornithology (accessed on 2014-07-28)
