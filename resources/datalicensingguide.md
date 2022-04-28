@@ -10,32 +10,35 @@ height: 70vh
 toc: true
 ---
 
-GUIDE TO COPYRIGHT AND LICENSES FOR DATASET PUBLICATION
+# GUIDE TO COPYRIGHT AND LICENSES FOR DATASET PUBLICATION
 DOWNLOAD PDF VERSION OF THE GUIDE
-INTRODUCTION
-This quick guide is intended to give data publishers and users of data published to the VertNet portal, as well as other biodiversity data portals, an understanding of the uses and limits of copyright, licensing, and waivers for biodiversity data and datasets. This is NOT a legal document or contract. This IS a well-researched guide intended to provide you with a clear understanding of the issues surrounding data sets, copyright, licenses, and the public domain. We’ve also conversed extensively with our friends at Canadensys, legal professionals (for legal accuracy where appropriate), and others who have conducted a sizable amount of research on these topics on their own.
 
-The descriptions and recommendations in this document are relevant to any data publisher or data user, but the recognition of rights, licenses, waivers for data, and what content is considered to be in the public domain may vary depending upon country, state, province, or institution. It is the responsibility of each publisher to consult with local legal counsel for legal opinion in keeping with their home institutions. Data users may also need to seek answers to questions of use with local legal professionals, although we are happy to help in any way possible.
+## INTRODUCTION
+This quick guide is intended to give data publishers and users of data published to the VertNet portal, as well as other biodiversity data portals, an understanding of the uses and limits of copyright, licensing, and waivers for biodiversity data and datasets. This is NOT a legal document or contract. This IS a well-researched guide intended to provide you with a clear understanding of the issues surrounding data sets, copyright, licenses, and the public domain. We’ve also conversed extensively with our friends at [Canadensys](http://www.canadensys.net/), legal professionals (for legal accuracy where appropriate), and others who have conducted a sizable amount of [research on these topics](pending new link) on their own.
+
+The descriptions and recommendations in this document are relevant to any data publisher or data user, but the recognition of rights, licenses, waivers for data, and what content is considered to be in the public domain may vary depending upon country, state, province, or institution. **It is the responsibility of each publisher to consult with local legal counsel for legal opinion in keeping with their home institutions.** Data users may also need to seek answers to questions of use with local legal professionals, although we are happy to help in any way possible.
 
 In keeping with VertNet’s primary goals and beliefs, this guide is intended to make things as simple and clear as possible, but dealing with these issues can be complicated. The more caveats we/you add, the more complicated things can become. So, buckle up and drive on in.
 
-WHAT WE BELIEVE
-Biodiversity data should be as complete, discoverable, and accessible as possible via portals, public URLs, and other means.
-Biodiversity data should be standardized so it can be aggregated, shared, and used as easily as possible.
-Factual data (see, What Can be Protected by Copyright and Licensing) cannot be protected by copyright and should be committed to the Public Domain.
-Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine readable licenses, such as licenses from the Creative Commons. Ideally, we would like to see all datasets using the Creative Commons Zero (CC0) waiver.
-Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
-This process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
-All data publishers should get the credit they deserve when the data they curate are used by others for broader benefit.
-It is worth the time and effort to achieve these goals to the greatest extent possible.
-WHY ARE RIGHTS AND LICENSES NEEDED (OR ARE THEY)?
+## WHAT WE BELIEVE
+1. Biodiversity data should be as complete, discoverable, and accessible as possible via portals, public URLs, and other means.
+2. Biodiversity data should be standardized so it can be aggregated, shared, and used as easily as possible.
+3. Factual data (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide#WHAT_CAN_BE_PROTECTED_BY_COPYRIGHT_AND_LICENSING?/)) cannot be protected by copyright and should be committed to the Public Domain.
+4. Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine readable licenses, such as licenses from the Creative Commons. Ideally, we would like to see all datasets using the Creative Commons Zero (CC0) waiver.
+5. Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
+6. This process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
+7. All data publishers should get the credit they deserve when the data they curate are used by others for broader benefit.
+8. It is worth the time and effort to achieve these goals to the greatest extent possible.
+
+## WHY ARE RIGHTS AND LICENSES NEEDED (OR ARE THEY)?
 Times have changed. No longer is it necessary for a researcher or scientist to visit a natural history collection in person or to use the phone or parcel post to request and review data that reside within a local database. As the availability of biodiversity data and related content (e.g., imagery and other digital media) from natural history collections continues to grow online and via digital formats, and the ability to share datasets between and among data publishers and users grows easier, many institutions want to be certain that they:
 
-receive appropriate recognition and attribution for providing content, and,
-protect any individual or institutional interests (financial or otherwise) that may arise from shared content.
+1. receive appropriate recognition and attribution for providing content, and,
+2. protect any individual or institutional interests (financial or otherwise) that may arise from shared content.
+
 Ascerting copyrights and licenses on datasets and related materials are two of the tools that data publishers can use to retain some control over their content and exercise applicable rights. Unfortunately, not everything in a publisher’s database can be protected by copyright or licensing. In most cases, the dataset itself may be exempt from protections, but we’ll get into that below.
 
-WHAT CAN BE PROTECTED BY COPYRIGHT AND LICENSING?
+## WHAT CAN BE PROTECTED BY COPYRIGHT AND LICENSING?
 Perhaps it’s better to establish up front what cannot be protected by copyright and licensing: facts are not copyrightable. The majority of the data in the datasets published by VertNet and available in other portals such as GBIF, Canadensys, and iDigBio, is factual and, therefore, cannot be protected. Generally, that includes most taxonomy, geography, morphometrics, sex, preparations, and nearly all of the content within Darwin Core fields.
 
 So, what can be protected by copyright or licensing?
