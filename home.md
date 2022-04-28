@@ -1,9 +1,10 @@
 ---
+lang: en
 lang-ref: home
 layout: home
 title: Welcome to VertNet
 description: Biodiversity data with backbone!
-  Come on in and have a look around.
+  We strive to make people who work with biodiversity data more productive. We provide tools and services to make data easy to find, easy to publish, and easy to use. 
 background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
 imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.caption}}"
 height: 75vh
@@ -11,16 +12,16 @@ cta:
   - text: Search
     href: /data
     isPrimary: true
+  - text: Learn more
+    href: /about
 #  - text: VertNet Classic
 #    href: http://portal.vertnet.org/search
-#  - text: About
-#    href: /about
 permalink: /
 ---
 
-What is VertNet?
+# What is VertNet?
 
-VertNet is a NSF-funded collaborative project that makes biodiversity data free and available on the web. VertNet is a tool designed to help people discover, capture, and publish all biodiversity data (not just vertebrates). It is also the core of a collaboration between hundreds of biocollections that contribute biodiversity data and work together to improve it. VertNet is an engine for training current and future professionals to use and build upon best practices in data quality, curation, research, and data publishing. Yet, VertNet is still the aggregate of all of the information that it mobilizes. To us, VertNet is all of these things and more.
+# VertNet is a NSF-funded collaborative project that makes biodiversity data free and available on the web. VertNet is a tool designed to help people discover, capture, and publish all biodiversity data (not just vertebrates). It is also the core of a collaboration between hundreds of biocollections that contribute biodiversity data and work together to improve it. VertNet is an engine for training current and future professionals to use and build upon best practices in data quality, curation, research, and data publishing. Yet, VertNet is still the aggregate of all of the information that it mobilizes. To us, VertNet is all of these things and more.
 
 <!--- Edit `/home.md` to change the text.
 
