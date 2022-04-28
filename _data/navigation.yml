@@ -9,9 +9,9 @@
 - text: Resources
   menu: # Dropdown menu
   - text: VertNet Norms
-    href: resources/norms
+    href: /resources/norms
   - text: Georeferencing
-    href: resources/georef
+    href: /resources/georef
 #  - text: Datasets & Tools
     href: /datatoolscode
 #  - text: Publications
