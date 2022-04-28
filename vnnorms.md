@@ -1,8 +1,13 @@
 --- 
-layout: page 
+layout: heroImage
+lang: en
+lang-ref: VertNet Norms
 title: VertNet Norms 
 background: https://via.placeholder.com/1000x400 
-description: Most layout assume the fields `background`, `title` and an optional `description` 
+description: 
+background: "{{site.data.images.Meerkats.src}}"
+imageLicense: "{{site.data.images.Meerkats.caption}}"
+height: 70vh
 ---
 
 # NORMS FOR DATA USE AND PUBLICATION
