@@ -23,7 +23,7 @@ In keeping with VertNet’s primary goals and beliefs, this guide is intended to
 ## WHAT WE BELIEVE
 1. Biodiversity data should be as complete, discoverable, and accessible as possible via portals, public URLs, and other means.
 2. Biodiversity data should be standardized so it can be aggregated, shared, and used as easily as possible.
-3. Factual data (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide#WHAT_CAN_BE_PROTECTED_BY_COPYRIGHT_AND_LICENSING?/)) cannot be protected by copyright and should be committed to the Public Domain.
+3. Factual data (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide#WHAT CAN BE PROTECTED BY COPYRIGHT AND LICENSING?/)) cannot be protected by copyright and should be committed to the Public Domain.
 4. Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine readable licenses, such as licenses from the Creative Commons. Ideally, we would like to see all datasets using the Creative Commons Zero (CC0) waiver.
 5. Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
 6. This process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
