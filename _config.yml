@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: VertNet # the title of your site should go here
-email: your-email@example.com
+email: vertnetinfo@vertnet.org
 description: >- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We strive to make people who work with biodiversity data more productive.
+  We provide tools and services to make data easy to find, easy to publish,
+  and easy to use.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-vertnet-plus.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://vertnet.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: vertnetorg
+github_username:  VertNet
 
 # Build settings
 theme: minima
@@ -39,10 +39,10 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # for usage in the standard privacy layout
 privacy:
-  name: the name should be filled
-  domain: your-domain.org
-  contactEmail: contact@your-domain.org
-  helpdeskEmail: helpdesk@your-domain.org
+  name: VertNet
+  domain: vertnet.org
+  contactEmail: vertnetinfo@vertnet.org
+  helpdeskEmail: dbloom@vertnet.org
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
@@ -52,7 +52,7 @@ siteMeasurements:
 
 algae:
   rootLang: en
-  # latestPostLimit: 2
+  # latestPostLimit: 3
   logo: /assets/images/VNLogo_Full_Transparent.png  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
