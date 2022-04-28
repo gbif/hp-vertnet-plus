@@ -69,7 +69,7 @@ In the absence of a citation practice that takes precedence, we recommend the fo
 
 ## SINGLE DATASET
 ### GENERAL FORMAT
-[dataset name]. [data publisher]. [link to dataset] (accessed on [date])
+<span style="background-color: #ededed">[dataset name]. [data publisher]. [link to dataset] (accessed on [date])</span>
 
 ### EXAMPLE
 Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
