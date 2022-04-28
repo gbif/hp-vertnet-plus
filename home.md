@@ -3,7 +3,8 @@ lang: en
 lang-ref: home
 layout: home
 title: Welcome to VertNet
-description: We strive to make people who work with biodiversity data more productive. We provide tools and services to make data easy to find, easy to publish, and easy to use. 
+description: We strive to make people who work with biodiversity data more productive.
+  We provide tools and services to make data easy to find, easy to publish, and easy to use. 
 background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
 imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.caption}}"
 height: 75vh
