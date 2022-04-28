@@ -8,6 +8,7 @@ description:
 background: "{{site.data.images.Meerkats.src}}"
 imageLicense: "{{site.data.images.Meerkats.caption}}"
 height: 70vh
+toc: true
 ---
 
 # NORMS FOR DATA USE AND PUBLICATION
