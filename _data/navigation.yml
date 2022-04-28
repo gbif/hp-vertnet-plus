@@ -2,7 +2,7 @@
 
 - text: About
   href: /about
-- text: Search (NEW)
+- text: Search
   href: /data
 - text: Publishers
   href: /data?view=DATASETS
