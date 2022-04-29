@@ -4,8 +4,8 @@ lang: en
 lang-ref: Guide to Copyright and Licenses for Dataset Publication
 title: Guide to Copyright and Licenses<br>for Dataset Publication
 description: 
-background: "{{site.data.images.Meerkats.src}}"
-imageLicense: "{{site.data.images.Meerkats.caption}}"
+background: "{{site.data.images.GopherSnake.src}}"
+imageLicense: "{{site.data.images.GopherSnake.caption}}"
 height: 70vh
 toc: true
 ---
