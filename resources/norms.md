@@ -71,17 +71,16 @@ In the absence of a citation practice that takes precedence, we recommend the fo
 
 ## SINGLE DATASET
 ### GENERAL FORMAT
-<span style="background-color: #ededed">\[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])</span>
 > \[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])
 
 #### EXAMPLE
-<mark>Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)</mark>
+> Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 
 ### AGGREGATED DATA (FROM MULTIPLE DATASETS)
 Cite each data publisher in the aggregate using the single dataset citation format described above.
 
 #### EXAMPLE
-Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
+> Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
 University of Kansas Bird Collection. University of Kansas Biodiversity Institute. http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_ornithology (accessed on 2014-07-28)
 
@@ -89,22 +88,22 @@ University of Kansas Bird Collection. University of Kansas Biodiversity Institut
 VertNet includes the text of a record citation in the bibliographicCitation field in the record itself for all data publishers who provide this information. If the record has a value in the bibliographicCitation field, construct the full citation by appending information about the date the data were accessed. If the record does not contain a value for bibliographicCitation, use the appropriate format described below.
 
 #### IF THE BIBLIOGRAPHICCITATION IS PROVIDED IN THE RECORD:
-\[bibliographicCitation\] (accessed on [date])
+> \[bibliographicCitation\] (accessed on [date])
 
 #### EXAMPLE
-urn:catalog:CM:Herps:105730. Carnegie Museum of Natural History Herpetology Collection. Carnegie Museums. http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps (accessed on 2014-07-28)
+> urn:catalog:CM:Herps:105730. Carnegie Museum of Natural History Herpetology Collection. Carnegie Museums. http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps (accessed on 2014-07-28)
 
 #### IF THERE IS NO BIBLIOGRAPHICCITATION, BUT OCCURRENCEID IS PROVIDED IN THE RECORD:
-[occurrenceID]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
+> [occurrenceID]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### EXAMPLE
-urn:catalog:CM:Herps:105730. AMNH Mammal Collection. American Museum of Natural History. http://ipt.vertnet.org:8080/ipt/resource.do?r=amnh_mammals (accessed on 2014-07-28)
+> urn:catalog:CM:Herps:105730. AMNH Mammal Collection. American Museum of Natural History. http://ipt.vertnet.org:8080/ipt/resource.do?r=amnh_mammals (accessed on 2014-07-28)
 
 #### IF THERE IS NO BIBLIOGRAPHICCITATION OR OCCURRENCEID PROVIDED IN THE RECORD:
-[catalogNumber]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
+> [catalogNumber]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### EXAMPLE
-105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
+> 105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
 
 ### WHERE CAN I FIND THE ELEMENTS TO CREATE A CITATION?
 All the elements can be found in fields contained within downloaded records or in the description of the dataset (i.e., the metadata) from which the record originates:
