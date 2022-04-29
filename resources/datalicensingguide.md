@@ -23,7 +23,7 @@ In keeping with VertNet’s primary goals and beliefs, this guide is intended to
 ## WHAT WE BELIEVE
 1. Biodiversity data should be as complete, discoverable, and accessible as possible via portals, public URLs, and other means.
 2. Biodiversity data should be standardized so it can be aggregated, shared, and used as easily as possible.
-3. Factual data (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide#WHAT CAN BE PROTECTED BY COPYRIGHT AND LICENSING?/)) cannot be protected by copyright and should be committed to the Public Domain.
+3. Factual data (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide/#what-can-be-protected-by-copyright-and-licensing)) cannot be protected by copyright and should be committed to the Public Domain.
 4. Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine readable licenses, such as licenses from the Creative Commons. Ideally, we would like to see all datasets using the Creative Commons Zero (CC0) waiver.
 5. Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
 6. This process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
@@ -156,9 +156,9 @@ If you are using the GBIF’s [Integrated Publishing Toolkit](https://www.gbif.o
 [Analyzing GBIF data licenses](http://peterdesmet.com/posts/analyzing-gbif-data-licenses.html)
 [Attribution Stacking via Creative Commons](https://creativecommons.org/about/program-areas/open-science/)
 [Attribution Stacking Example](http://wir.okfn.org/2012/01/27/attribution-stacking-as-a-barrier-to-reuse/)
-If you have any questions about this document, please contact [VertNet's support team](pending link).
+If you have any questions about this document, please contact [VertNet's support team](PENDING LINK).
 
-Visit our [Help & How To](PENDING PAGE) page for more resources created for the VertNet project.
+Visit our [Help & How To](https://hp-vertnet-plus.gbif-staging.org/resources/help/) page for more resources created for the VertNet project.
 
 Orig Release, 14Mar2014 (David Bloom)
 Revised, 31Mar2014 (David Bloom: Copy edits, minor legal corrections)
