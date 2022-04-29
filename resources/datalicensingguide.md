@@ -1,8 +1,8 @@
 --- 
 layout: heroImage
 lang: en
-lang-ref: Data Licencing Guide
-title: Data Licencing Guide 
+lang-ref: Data Licensing Guide
+title: Data Licensing Guide 
 description: 
 background: "{{site.data.images.Meerkats.src}}"
 imageLicense: "{{site.data.images.Meerkats.caption}}"
