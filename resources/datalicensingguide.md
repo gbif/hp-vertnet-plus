@@ -158,7 +158,7 @@ If you are using the GBIF’s [Integrated Publishing Toolkit](https://www.gbif.o
 [Attribution Stacking Example](http://wir.okfn.org/2012/01/27/attribution-stacking-as-a-barrier-to-reuse/)
 If you have any questions about this document, please contact [VertNet's support team](pending link).
 
-Visit our [Resources](PENDING PAGE) page for more resources created for the VertNet project.
+Visit our [Help & How To](PENDING PAGE) page for more resources created for the VertNet project.
 
 Orig Release, 14Mar2014 (David Bloom)
 Revised, 31Mar2014 (David Bloom: Copy edits, minor legal corrections)
