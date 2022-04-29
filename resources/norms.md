@@ -124,7 +124,7 @@ NOTE: These norms may be subject to minor revisions without notice; major revisi
 
 If you have any questions about this document, please contact [VertNet's support team](pending page).
 
-Visit our [Resources](pending page) page for more resources created for the VertNet project.
+Visit our [Help & How To](pending page) page for more resources created for the VertNet project.
 
 If you'd like to adapt these norms to your own project or work, please fork our [norms repository](https://github.com/VertNet/norms-for-data-use on GitHub.
 
