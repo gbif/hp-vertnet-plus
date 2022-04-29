@@ -2,7 +2,7 @@
 layout: heroImage
 lang: en
 lang-ref: Guide to Copyright and Licenses for Dataset Publication
-title: Guide to Copyright and Licenses for Dataset Publication
+title: Guide to Copyright and Licenses<br>for Dataset Publication
 description: 
 background: "{{site.data.images.Meerkats.src}}"
 imageLicense: "{{site.data.images.Meerkats.caption}}"
@@ -19,7 +19,7 @@ The descriptions and recommendations in this document are relevant to any data p
 
 In keeping with VertNet’s primary goals and beliefs, this guide is intended to make things as simple and clear as possible, but dealing with these issues can be complicated. The more caveats we/you add, the more complicated things can become. So, buckle up and drive on in.
 
-## WHAT WE BELIEVE
+# WHAT WE BELIEVE
 1. Biodiversity data should be as complete, discoverable, and accessible as possible via portals, public URLs, and other means.
 2. Biodiversity data should be standardized so it can be aggregated, shared, and used as easily as possible.
 3. Factual data (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide/#what-can-be-protected-by-copyright-and-licensing)) cannot be protected by copyright and should be committed to the Public Domain.
@@ -29,7 +29,7 @@ In keeping with VertNet’s primary goals and beliefs, this guide is intended to
 7. All data publishers should get the credit they deserve when the data they curate are used by others for broader benefit.
 8. It is worth the time and effort to achieve these goals to the greatest extent possible.
 
-## WHY ARE RIGHTS AND LICENSES NEEDED (OR ARE THEY)?
+# WHY ARE RIGHTS AND LICENSES NEEDED (OR ARE THEY)?
 Times have changed. No longer is it necessary for a researcher or scientist to visit a natural history collection in person or to use the phone or parcel post to request and review data that reside within a local database. As the availability of biodiversity data and related content (e.g., imagery and other digital media) from natural history collections continues to grow online and via digital formats, and the ability to share datasets between and among data publishers and users grows easier, many institutions want to be certain that they:
 
 1. receive appropriate recognition and attribution for providing content, and,
@@ -37,14 +37,14 @@ Times have changed. No longer is it necessary for a researcher or scientist to v
 
 Ascerting copyrights and licenses on datasets and related materials are two of the tools that data publishers can use to retain some control over their content and exercise applicable rights. Unfortunately, not everything in a publisher’s database can be protected by copyright or licensing. In most cases, the dataset itself may be exempt from protections, but we’ll get into that below.
 
-## WHAT CAN BE PROTECTED BY COPYRIGHT AND LICENSING?
+# WHAT CAN BE PROTECTED BY COPYRIGHT AND LICENSING?
 Perhaps it’s better to establish up front what cannot be protected by copyright and licensing: facts are not copyrightable. The majority of the data in the datasets published by VertNet and available in other portals such as GBIF, Canadensys, and iDigBio, is factual and, therefore, cannot be protected. Generally, that includes most taxonomy, geography, morphometrics, sex, preparations, and nearly all of the content within Darwin Core fields.
 
 So, what can be protected by copyright or licensing?
 
 Images, media, and some textual descriptions that are clearly and demonstrably the creative work of the collector or observer, or other individual who created or edited the occurrence record (including, but not limited to, the unique expression of ideas, concepts or beliefs).
 
-## COMPILATIONS AND COPYRIGHT
+# COMPILATIONS AND COPYRIGHT
 Compilations, such as datasets, also can be protected under copyright and licensing, but there are limits to the types of compilations that may be covered. For example, a simple listing of facts in alphabetical, numerical, or other order is not likely to qualify as a compilation that can be protected by copyright. This limitation was tested by the US Supreme Court in the case [Feist v. Rural](https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.) (1991), in which the Court ruled that the Rural Telephone Service Co. could not protect their whitepages because (a) the contents were fact, and therefore, not subject to copyright, and (b) that an alphabetical listing of facts did not demonstrate sufficient creative expression to warrant protection. Other court cases have upheld this via similar rulings, including [Assessment Technologies v. Wiredata](http://www.casesofinterest.com/tiki/Assessment+Technologies+of+WI+v.+WIREdata) (2003) and [Publications International v. Meredith Corp](http://www.pddoc.com/copyright/publications_v_meredith.htm) (1996).
 
 In sum, unless there is sufficient and obviously discernible creative expression used to create and organize the compilation, it cannot be protected by copyright. Further, the facts contained within the compilation cannot be protected either.
@@ -57,12 +57,12 @@ Images, media, and other creative content that can be discovered via hyperlinks 
 
 \[NOTE: for those of you with images and media held within a dataset, we recommend that you consult your local legal counsel for advice about licensing this content - unless, of course, you want to dedicate it to the public domain.\]
 
-## SWEAT OF BROW DOCTRINE
+# SWEAT OF BROW DOCTRINE
 “But what about all of the time and resources we’ve put into curating and maintaining the data?” you may ask. “That must give us the right to protect our datasets.”
 
 Sadly, the answer is very likely “no, it doesn’t.” This argument is called the [Sweat of the Brow Doctrine](https://en.wikipedia.org/wiki/Sweat_of_the_brow), and it is based on the idea that authors/creators should be awarded copyright for the compilation of factual data. This argument was rejected by the US Supreme Court in Feist v. Rural discussed above.
 
-## THE CREATIVE COMMONS
+# THE CREATIVE COMMONS
 Many folks in our community are looking to the [Creative Commons](https://creativecommons.org/) to address the issue of licensing. The Creative Commons “is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.”(1) Their tools are free, easy to use, well documented, and accepted in most countries around the world. The licenses they offer are standardized and meet three important criteria - they are all based firmly in legal standards, they are easy for humans to read and understand (most humans anyway), and they are machine-readable.
 
 The most common licenses being considered for use by the biodiversity community are:
@@ -82,7 +82,7 @@ The Attribution (BY) license isn’t a bad option, but it creates an unnecessary
 
 **In all cases, all of these licenses, apply only to any (rare) copyrightable content within the dataset or compilation.** The rest of content, including the structure of the database or dataset, will be considered to be in the public domain.
 
-## VERTNET RECOMMENDS...
+# VERTNET RECOMMENDS...
 Based on all that has been described above (and we didn’t even introduce some of the more mind-bending of the issues lurking within an institutional dataset), we are left with a simple choice: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (CC Zero).
 
 The CC0 is not a license, it is a waiver that:
@@ -109,12 +109,12 @@ As a good friend and colleague of VertNet once said:
 
 We would add only that you may be a data publisher, but you’re probably a data user too, so we encourage you not to make sharing data any more complicated than it needs to be, both for you and for your colleagues.
 
-## THE REAL SOLUTION
+# THE REAL SOLUTION
 As the number of datasets grows and access to these datasets expands, the use of data licenses, even when they apply, is not the solution to the problems of giving credit where credit is due. We believe the solution is a robust set of social norms that govern the behavior of people who publish and use biodiversity data. This won’t happen overnight, but the process has begun. Canadensys has already published a set of [norms for data use and publication](https://community.canadensys.net/about/norms). VertNet is in the process of adopting these norms (as of March, 2014), and encourages other aggregators to encourage the adoption of similar norms within their communities.
 
 As with all VertNet resources, if you have any questions or comments, please let us know ([norms for data use and publication](mailto:dbloom@vertnet.org)).
 
-## I'VE SELECTED A LICENSE, WHERE DOES IT GO?
+# I'VE SELECTED A LICENSE, WHERE DOES IT GO?
 Once you have decided on the license or waiver you wish to use, you need to make sure it’s attached to your data set. We recommend the following protocol:
 
 List any and all copyrights, licenses, and waivers in the Darwin Core field rights. To do this, please provide a web link to the rights or license statement, instead of including the license type itself. For example:
@@ -128,13 +128,13 @@ If you have additional terms of use or norms that you require data users to foll
 
 If you are using the GBIF’s [Integrated Publishing Toolkit](https://www.gbif.org/ipt) to publish your data, the content from both **dwc:rights** and **dwc:accessrights** should be in the Additional Meta Data section in the metadata field, **IP Rights**.
 
-## FOOTNOTES AND OTHER RESOURCES
+# FOOTNOTES AND OTHER RESOURCES
 1. [https://creativecommons.org/about](https://creativecommons.org/about)
 2. [http://wiki.creativecommons.org/Data](https://wiki.creativecommons.org/wiki/Data)
 3. [http://sciencecommons.org/resources/faq/database-protocol/#why_not_sa](https://creativecommons.org/about/program-areas/open-science/#why_not_sa)
 4. Personal Correspondence between David Bloom and Peter Desmet, 14 March 2014
 
-### Resources
+## Resources
 
 [Data - Creative Commons](https://wiki.creativecommons.org/wiki/Data)
 [Why we should publish our data under CC0](https://community.canadensys.net/2012/why-we-should-publish-our-data-under-cc0)
