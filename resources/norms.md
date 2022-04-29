@@ -2,8 +2,7 @@
 layout: heroImage
 lang: en
 lang-ref: VertNet Norms
-title: VertNet Norms 
-background: https://via.placeholder.com/1000x400 
+title: VertNet Norms
 description: 
 background: "{{site.data.images.Meerkats.src}}"
 imageLicense: "{{site.data.images.Meerkats.caption}}"
