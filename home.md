@@ -16,6 +16,13 @@ cta:
 #  - text: VertNet Classic
 #    href: http://portal.vertnet.org/search
 permalink: /
+composition:
+  - type: heroImage # the block type
+  - data: home.stats
+    type: stats
+  # - type: pageMarkdown # there is currently no text on the page so just ignore this part
+  - type: latestPosts
+    data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---
 
 
