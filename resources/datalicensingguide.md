@@ -119,8 +119,9 @@ Once you have decided on the license or waiver you wish to use, you need to make
 
 List any and all copyrights, licenses, and waivers in the Darwin Core field rights. To do this, please provide a web link to the rights or license statement, instead of including the license type itself. For example:
 
-Good content for **dwc:rights**:  https://creativecommons.org/publicdomain/zero/1.0/
-Not so good content for **dwc:rights**:  CC0
+> Good content for **dwc:rights**:  https://creativecommons.org/publicdomain/zero/1.0/
+
+> Not so good content for **dwc:rights**:  CC0
 
 You are welcome to have more than one link in this field, if you find yourself in a circumstance that requires more than one statement of copyright, license, or waiver. We do recognize that licenses and waivers are not rights as defined by Darwin Core, but given the current status of Darwin Core, this is the field in which this data is best presented.
 
@@ -159,7 +160,8 @@ If you have any questions about this document, please contact [VertNet's support
 
 Visit our [Help & How To](https://hp-vertnet-plus.gbif-staging.org/resources/help/) page for more resources created for the VertNet project.
 
-Orig Release, 14Mar2014 (David Bloom)
+> Orig Release, 14Mar2014 (David Bloom)
 Revised, 31Mar2014 (David Bloom: Copy edits, minor legal corrections)
-University of California, Berkeley, CA 94720, Copyright © 2014 The Regents of the University of California.
+
+> University of California, Berkeley, CA 94720, Copyright © 2014 The Regents of the University of California.
 Licensed under Creative Commons: [CC-BY](https://creativecommons.org/licenses/by/4.0/).
