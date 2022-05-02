@@ -8,6 +8,8 @@
   href: /data?view=DATASETS
 - text: Resources
   menu: # Dropdown menu
+  - text: Help & How To
+    href: /resources/help
   - text: VertNet Norms
     href: /resources/norms
   - text: Georeferencing
