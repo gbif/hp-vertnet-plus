@@ -4,8 +4,8 @@ lang: en
 lang-ref: VertNet Norms
 title: VertNet Norms
 description: 
-background: "{{site.data.images.GopherSnake.src}}"
-imageLicense: "{{site.data.images.GopherSnake.caption}}"
+background: "{{site.data.images.PoisonDart.src}}"
+imageLicense: "{{site.data.images.PoisonDart.caption}}"
 height: 70vh
 toc: true
 ---
