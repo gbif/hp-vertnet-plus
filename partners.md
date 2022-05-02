@@ -1,4 +1,6 @@
 ---
+layout: heroImage
+lang: en
 lang-ref: partners
 title: Project Partners
 background: "{{site.data.images.Seadragon.src}}"
