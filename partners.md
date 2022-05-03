@@ -18,13 +18,32 @@ composition:
   data: example.partners3
 ---
 
+## Honorable Mentions
 Morten's attempt
+A special shout out to the following organization for their on-going financial, material, and emotional support.
 
-| [![](/assets/images/GitHub-Octocat-361x300.png)](https://github.com/){:target='_blank'} | [![](/assets/images/field-museum-logo-300x300.png)](https://www.fieldmuseum.org/){:target='_blank'} | [![](/assets/images/GBIF-2015-300x199.png)](https://www.gbif.org/){:target='_blank'} | [![](/assets/images/CARTO-logo-positive-767x300.png)](https://carto.com/){:target='_blank'} |
+|   |   |   |   |
+|---|---|---|---|
+| [![](/assets/images/GitHub-Octocat-361x300.png)](https://github.com/){:target='_blank'} |  [![](/assets/images/field-museum-logo-300x300.png)](https://www.fieldmuseum.org/){:target='_blank'} |  [![](/assets/images/GBIF-2015-300x199.png)](https://www.gbif.org/){:target='_blank'} |  [![](/assets/images/CARTO-logo-positive-767x300.png)](https://carto.com/){:target='_blank'} |
 
 
 ------------
 
+## Project Partners
+Many thanks to our project partners for their time, energy, and support.
+
+|   |   |   |   |
+|---|---|---|---|
+| [![](/assets/images/arctos-alogo_blackonwhite-513x300.png)](https://arctosdb.org/){:target='_blank'} |  [![](/assets/images/Bishop_img_logo_fulldome-300x300.jpeg)](https://bishopscience.org/){:target='_blank'} |  [![](/assets/images/CyVerse-logo-482x300.jpeg)](https://www.cyverse.org/){:target='_blank'} |  [![](/assets/images/IDigBio_Logo_RGB-300-970.png)](https://www.idigbio.org/){:target='_blank'} |
+
+
+
+| FLMNH![](/assets/images/flmnh-logo.png) | AWeb![](/assets/images/Aweb-logo-300x284.jpeg) | ZooArchNet![](/assets/images/zan-logo-circular_color_web-only300x300.png) | TDWG![](/assets/images/tdwg_logo300x568.png) |
+| [FLMNH](https://www.floridamuseum.ufl.edu/) | [AmphibiaWeb](https://amphibiaweb.org/) | [ZooArchNet](https://zooarchnet.org/) | [TDWG](https://www.tdwg.org/) |
+| DataONE![](/assets/images/dataone_logo-300x455.png) | KNB![](/assets/images/knb-icon-192x192.png) | GEOLocate![](/assets/images/geolocatelogo300x430.jpeg) | rOpenSci![](/assets/images/ropensci_icon_lettering_color-300x544.png) |
+| [DataONE](https://www.dataone.org/) | [knb](https://knb.ecoinformatics.org/) | [GEOLocate](https://www.geo-locate.org/) | [rOpenSci](https://docs.ropensci.org/rvertnet/) |
+| | VESS![](/assets/images/vesslogo_website.png) | | |
+| | [VESS](https://www.vanuatuconservation.org/) | | |
 
 A special shout out to the following organizations for their on-going support and services.
 
