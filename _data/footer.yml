@@ -13,7 +13,7 @@ columns:
   - name: VertNet Resources
     description: | # Can be Markdown
       * [VertNet GitHub](https://github.com/vertnet)
-      * [Georeferencing.org)(https://georeferencing.org/)
+      * [Georeferencing.org](https://georeferencing.org/)
 
   - name: Connect
     description: | # Can be Markdown
