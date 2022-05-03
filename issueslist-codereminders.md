@@ -13,6 +13,8 @@ height: 70vh
 1. https://hp-vertnet-plus.gbif-staging.org/resources/norms/#if-there-is-no-bibliographiccitation-or-occurrenceid-provided-in-the-record  The record number is being changed to 1.  IT should be 105730.
 2. Contact Form - maybe just use Google Form
 3. Add partners link to About page.
+4. Why does Georef go to Publications?
+5. Add version to the footer.
 
 
 # Things to Remember
