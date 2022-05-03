@@ -18,8 +18,6 @@ columns:
   - name: Connect
     description: | # Can be Markdown
       * [Feedback/Contact](pending)
-      * [![Twitter](/assets/images/Twitter social icons - rounded square - blue.png){:width="16px"}](https://twitter.com/vertnetorg)
-      * [Facebook](https://www.facebook.com/VertNet/)
     connectIcons: true
 
   # EXAMPLE
