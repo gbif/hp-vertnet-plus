@@ -16,10 +16,12 @@
 
 // some styling to control iage sizes and position on the partners page. The class .partners is there because we add it in the frontmatter using "klass: partners"
 .partners {
-  td {
-    vertical-align: middle!important;
-  }
-  img {
-    max-width: 90px;
+  table {
+    td {
+      vertical-align: middle!important;
+    }
+    img {
+      max-width: 90px;
+    }
   }
 }
