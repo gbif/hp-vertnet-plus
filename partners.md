@@ -6,7 +6,7 @@ title: Project Partners
 klass: partners
 background: "{{site.data.images.Seadragon.src}}"
 imageLicense: "{{site.data.images.Seadragon.caption}}"
-height: 50vh
+height: 70vh
 toc: true
 ---
 
