@@ -3,6 +3,7 @@ layout: heroImage
 lang: en
 lang-ref: partners
 title: Project Partners
+klass: partners
 background: "{{site.data.images.Seadragon.src}}"
 imageLicense: "{{site.data.images.Seadragon.caption}}"
 height: 70vh
@@ -16,6 +17,14 @@ composition:
 - type: features
   data: example.partners3
 ---
+
+Morten's attempt
+
+| [![](/assets/images/GitHub-Octocat-361x300.png)](https://github.com/){:target='_blank'} | [![](/assets/images/field-museum-logo-300x300.png)](https://www.fieldmuseum.org/){:target='_blank'} | [![](/assets/images/GBIF-2015-300x199.png)](https://www.gbif.org/){:target='_blank'} | [![](/assets/images/CARTO-logo-positive-767x300.png)](https://carto.com/){:target='_blank'} |
+
+
+------------
+
 
 A special shout out to the following organizations for their on-going support and services.
 
