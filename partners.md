@@ -11,12 +11,12 @@ toc: true
 composition:
 - type: heroBox
 - type: pageMarkdown # This will render the markdown in this file
-- type: stats
-  data: example.partners1
 - type: markdown
-  data: example.partners2
-- type: features
-  data: example.partners3
+  data: Honorable Mentions
+- type: markdown
+  data: Project Partners
+- type: markdown
+  data: Funded By
 ---
 
 ## Honorable Mentions
