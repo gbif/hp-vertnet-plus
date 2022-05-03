@@ -8,15 +8,6 @@ background: "{{site.data.images.Seadragon.src}}"
 imageLicense: "{{site.data.images.Seadragon.caption}}"
 height: 70vh
 toc: true
-composition:
-- type: heroBox
-- type: pageMarkdown # This will render the markdown in this file
-- type: markdown
-  data: Honorable Mentions
-- type: markdown
-  data: Project Partners
-- type: markdown
-  data: Funded By
 ---
 
 ## Honorable Mentions
