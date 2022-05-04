@@ -103,7 +103,7 @@ VertNet includes the text of a record citation in the bibliographicCitation fiel
 > [catalogNumber]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### EXAMPLE
-> \105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
+> 105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
 
 ### WHERE CAN I FIND THE ELEMENTS TO CREATE A CITATION?
 All the elements can be found in fields contained within downloaded records or in the description of the dataset (i.e., the metadata) from which the record originates:
