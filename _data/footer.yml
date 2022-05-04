@@ -14,6 +14,7 @@ columns:
     description: | # Can be Markdown
       * [VertNet GitHub](https://github.com/vertnet)
       * [Georeferencing.org](https://georeferencing.org/)
+      * [VertNet Blog](https://blog.vertnet.org/)
 
   - name: Connect
     description: | # Can be Markdown
