@@ -35,3 +35,8 @@ https://jsonformatter.org/yaml-validator
 
 ### Markdown Preview
 https://dillinger.io/
+
+### Embiggen Logo in Nav Bar
+Go to https://github.com/gbif/hp-vertnet-plus/blob/master/_sass/_main.scss and increase the $navbar-item-img-max-height:  per https://github.com/gbif/hp-vertnet-plus/issues/2
+
+
