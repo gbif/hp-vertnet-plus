@@ -24,7 +24,7 @@ toc: true
 4. **Georeferencing Quick Reference Guide**
   - **Citation:** Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020) Georeferencing Quick Reference Guide. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/e09p-h128
   - [PDF Version](https://docs.gbif.org/georeferencing-quick-reference-guide/1.0/en/georeferencing-quick-reference-guide.en.pdf)
-5. Georeferencing Calculator Manual
+5. **Georeferencing Calculator Manual**
   - **Citation:** David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020) Georeferencing Calculator Manual. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/gdwq-3v93
   - [PDF Version](https://docs.gbif.org/georeferencing-calculator-manual/1.0/en/georeferencing-calculator-manual.en.pdf)
 7. **Current Best Practices for Generalizing Sensitive Species Occurrence Data**
