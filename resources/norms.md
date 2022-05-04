@@ -94,7 +94,9 @@ VertNet includes the text of a record citation in the bibliographicCitation fiel
 > urn:catalog:CM:Herps:105730. Carnegie Museum of Natural History Herpetology Collection. Carnegie Museums. http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps (accessed on 2014-07-28)
 
 #### IF THERE IS NO BIBLIOGRAPHICCITATION, BUT OCCURRENCEID IS PROVIDED IN THE RECORD:
-> [occurrenceID]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
+```
+[occurrenceID]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
+```
 
 #### EXAMPLE
 > urn:catalog:CM:Herps:105730. AMNH Mammal Collection. American Museum of Natural History. http://ipt.vertnet.org:8080/ipt/resource.do?r=amnh_mammals (accessed on 2014-07-28)
