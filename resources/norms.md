@@ -73,14 +73,12 @@ In the absence of a citation practice that takes precedence, we recommend the fo
 #### GENERAL FORMAT
 > \[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])
 
-##### EXAMPLE
 **EXAMPLE**
 > Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 
 #### AGGREGATED DATA (FROM MULTIPLE DATASETS)
 Cite each data publisher in the aggregate using the single dataset citation format described above.
 
-##### EXAMPLE
 **EXAMPLE**
 > Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
@@ -92,19 +90,19 @@ VertNet includes the text of a record citation in the bibliographicCitation fiel
 ##### IF THE BIBLIOGRAPHICCITATION IS PROVIDED IN THE RECORD:
 > \[bibliographicCitation\] (accessed on [date])
 
-##### EXAMPLE
+**EXAMPLE**
 > urn:catalog:CM:Herps:105730. Carnegie Museum of Natural History Herpetology Collection. Carnegie Museums. http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps (accessed on 2014-07-28)
 
 ##### IF THERE IS NO BIBLIOGRAPHICCITATION, BUT OCCURRENCEID IS PROVIDED IN THE RECORD:
 > \[occurrenceID\]. \[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])
 
-##### EXAMPLE
+**EXAMPLE**
 > urn:catalog:CM:Herps:105730. AMNH Mammal Collection. American Museum of Natural History. http://ipt.vertnet.org:8080/ipt/resource.do?r=amnh_mammals (accessed on 2014-07-28)
 
 ##### IF THERE IS NO BIBLIOGRAPHICCITATION OR OCCURRENCEID PROVIDED IN THE RECORD:
 > [catalogNumber]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
-##### EXAMPLE
+**EXAMPLE**
 > <div>105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)</div>
 
 #### WHERE CAN I FIND THE ELEMENTS TO CREATE A CITATION?
