@@ -10,13 +10,15 @@ height: 70vh
 toc: true
 ---
 
+## Georeferencing Resources
 Georeferencing is an important part of the VertNet project and an essential component of data completeness and fitness for use of every occurrence record. To promote the best practices in georeferencing, we’ve developed an extensive collection of tools and resources and conducted many workshops around the world.
 
-# Georeferencing Resources
+### Tools
 **[Georeferencing.org](https://georeferencing.org/)**, our one stop shop for georeferencing resources and tools.
 
 **[Georeferencing Calculator](https://georeferencing.org/georefcalculator/gc.html)**
 
+### Best Practices, Guides, and Instruction Manuals
 **[Georeferencing Best Practices](https://docs.gbif.org/georeferencing-best-practices/1.0/en/)**
   - **Citation:** Arthur D. Chapman & John R. Wieczorek (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
   - [PDF Version](https://docs.gbif.org/georeferencing-best-practices/1.0/en/georeferencing-best-practices.en.pdf)
