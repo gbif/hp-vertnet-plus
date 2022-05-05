@@ -16,9 +16,9 @@ toc: true
 * ?? Citation Help ??
 
 # Georeferencing Resources
-**[Georeferencing.org]**(https://georeferencing.org/), our one stop shop for georeferencing resources and tools.
+**[Georeferencing.org](https://georeferencing.org/)**, our one stop shop for georeferencing resources and tools.
 
-**[Georeferencing Calculator]**(https://georeferencing.org/georefcalculator/gc.html)
+**[Georeferencing Calculator](https://georeferencing.org/georefcalculator/gc.html)**
 
 **[Georeferencing Best Practices](https://docs.gbif.org/georeferencing-best-practices/1.0/en/)**
   - **Citation:** Arthur D. Chapman & John R. Wieczorek (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
