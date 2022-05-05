@@ -31,7 +31,7 @@ Check out our [Georeferening Resources](https://hp-vertnet-plus.gbif-staging.org
 **[VertNet: A New Model for Biodiversity Data Sharing](https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1000309)**
   - **Citation:** Constable H, Guralnick R, Wieczorek J, Spencer C, Peterson AT, The VertNet Steering Committee (2010) VertNet: A New Model for Biodiversity Data Sharing. PLoS Biol 8(2): e1000309. https://doi.org/10.1371/journal.pbio.1000309
 
-**[VertNet: Creating a Data-sharing Community]((https://academic.oup.com/bioscience/article/60/4/258/225916?login=false)**
+**[VertNet: Creating a Data-sharing Community](https://academic.oup.com/bioscience/article/60/4/258/225916?login=false)**
   - **Citation:** Guralnick R, Constable H (2010) VertNet: Creating a Data-sharing Community. BioScience (2010) 60 (4): 258-259. doi: 10.1525/bio.2010.60.4.2
   - *Access to this publication may be limited.*
 
