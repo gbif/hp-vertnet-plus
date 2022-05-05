@@ -15,7 +15,7 @@ New image needed
 ## By the VertNet Team and Collaborators
 
 **[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623)**
-  - **Citation:** Robertson T, Döring M, Guralnick R, Bloom D, Wieczorek J, Braak K, et al. (2014) The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8): e102623. https://doi.org/10.1371/journal.pone.0102623
+  **Citation:** Robertson T, Döring M, Guralnick R, Bloom D, Wieczorek J, Braak K, et al. (2014) The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8): e102623. https://doi.org/10.1371/journal.pone.0102623
 
 **[Darwin Core: An Evolving Community-Developed Biodiversity Data Standard](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715)**
   - **Citation:** Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. https://doi.org/10.1371/journal.pone.0029715
