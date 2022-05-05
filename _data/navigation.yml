@@ -13,7 +13,9 @@
   - text: VertNet Norms
     href: /resources/norms
   - text: Georeferencing
-    href: /resources/help/#georeferencing
+    href: https://hp-vertnet-plus.gbif-staging.org/resources/help/#georeferencing-resources
+  - text: Publications
+    href: /resources/publications
 #  - text: Datasets & Tools
 #    href: /datatoolscode
 #  - text: Publications
