@@ -8,6 +8,7 @@ background: "{{site.data.images.PoisonDart.src}}"
 imageLicense: "{{site.data.images.PoisonDart.caption}}"
 height: 70vh
 toc: true
+permalink: /resources/norms.html
 ---
 
 ## NORMS FOR DATA USE AND PUBLICATION
