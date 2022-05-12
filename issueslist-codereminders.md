@@ -1,8 +1,8 @@
 --- 
 layout: heroImage
 lang: en
-lang-ref: Guide to Copyright and Licenses for Dataset Publication
-title: Guide to Copyright and Licenses<br>for Dataset Publication
+lang-ref: 
+title: Issue List, Reminders, Tools
 description: 
 background: "{{site.data.images.Meerkats.src}}"
 imageLicense: "{{site.data.images.Meerkats.caption}}"
@@ -13,11 +13,14 @@ height: 70vh
 1. https://hp-vertnet-plus.gbif-staging.org/resources/norms/#if-there-is-no-bibliographiccitation-or-occurrenceid-provided-in-the-record  The record number is being changed to 1.  It should be 105730.
 2. Contact Form - maybe just use Google Form
 3. Add partners link to About page.
-4.  Add version to the footer.
+4. Add version to the footer.
+5.   
 
 
 # Things to Remember
 1. Add Google Analytics
+2. Redirect Links
+3. New IP for old site - archive.vertnet.org
 
 
 # Code Stuff
