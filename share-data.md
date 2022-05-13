@@ -12,7 +12,7 @@ toc: true
 
 ## We're Happy to Help
 Welcome to [VertNet](https://hp-vertnet-plus.gbif-staging.org/about/). We invite any institution, collection, laboratory, NGO, and educational facility with biological or natural history collections to join the biodiverity data-sharing community.
-**We work with ALL biodiversity data** - vertebrates, non-vertebrates, fossils, plants, insects, fungi, and more - and we can help you to share your data with [VertNet](https://hp-vertnet-plus.gbif-staging.org/data/), [GBIF](https://www.gbif.org/), [iDigBio](https://www.idigbio.org/portal/search), and many other biodiversity data resources.<br>
+**We work with ALL biodiversity data from every region on Earth** - vertebrates, non-vertebrates, fossils, plants, insects, fungi, and more - and we can help you to share your data with [VertNet](https://hp-vertnet-plus.gbif-staging.org/data/), [GBIF](https://www.gbif.org/), [iDigBio](https://www.idigbio.org/portal/search), and many other biodiversity data resources.<br>
 
 If you are ready to share, [contact us](LINK TO CONTACT FORM) and we'll get you started.
 
