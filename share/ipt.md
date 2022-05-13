@@ -4,8 +4,8 @@ lang: en
 lang-ref: 
 title: The VertNet IPT
 description: 
-background: "{{site.data.images.Meerkats.src}}"
-imageLicense: "{{site.data.images.Meerkats.caption}}"
+background: "{{site.data.images.MudTurtle.src}}"
+imageLicense: "{{site.data.images.MudTurtle.caption}}"
 height: 70vh
 toc: true
 ---
