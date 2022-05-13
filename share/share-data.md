@@ -4,8 +4,8 @@ lang: en
 lang-ref: Share Data
 title: Share Your Data 
 description: We can help you to share your data with VertNet, GBIF, and other data portals.
-background: "{{site.data.images.Pangolin.src}}"
-imageLicense: "{{site.data.images.Pangolin.caption}}"
+background: "{{site.data.images.FairyBasslet.src}}"
+imageLicense: "{{site.data.images.FairyBasslet.caption}}"
 height: 70vh
 toc: true
 ---
