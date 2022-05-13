@@ -10,7 +10,7 @@ height: 70vh
 toc: true
 ---
 
-**VertNet uses the [Integrated Publishing Toolkit](https://www.gbif.org/ipt) (IPT) to host published biodiversity data on the [VertNet IPT](http://ipt.vertnet.org/).**<br> These data  are accessed by a variety of data portals, including VertNet, GBIF, and iDigBio.
+**VertNet uses the [Integrated Publishing Toolkit](https://www.gbif.org/ipt) (IPT) to host published biodiversity data** and make these data available to data portals and other aggregators.
 
 Are you ready to share your data, but unsure about IPT and your hosting options? Take a look at answers to frequently asked questions, below.
 
@@ -54,4 +54,4 @@ The frequency with which you update your data is entirely up to you. Many update
 
 Use of the VertNet IPT is free and will cost you nothing. Nada. Zero. Zip. We are happy to accept home-baked goods in exchange for this service - cookies, muffins, cinnamon rolls and the like.
 
-**Ready to get started? [Let us know.]**(CONTACT FORM WHEN READY)
+**Ready to get started? [Let us know.](CONTACT FORM WHEN READY)**
