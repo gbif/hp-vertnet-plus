@@ -21,7 +21,11 @@
 #  - text: Publications
 #    href: /publications
 - text: Share Data
-  href: /workwithus
+  menu: # Dropdown menu
+  - text: Share Your Data
+    href: /share/share-data
+  - text: VertNet IPT
+    href: /share/ipt
 - text: Feedback
   href: /feedback
 # - text: Links
