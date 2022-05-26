@@ -11,7 +11,7 @@ toc: true
 ---
 
 ## Georeferencing Resources
-Georeferencing is an important part of the VertNet project and an essential component of data completeness and fitness for use biodiversity data. To promote the best practices in georeferencing, we’ve developed an extensive collection of tools and resources and conducted many workshops around the world.
+Georeferencing is an important part of the VertNet project and an essential component of data completeness and fitness for use for biodiversity data. To promote the best practices in georeferencing, we’ve developed an extensive collection of tools and resources and conducted many workshops around the world.
 
 ### Tools
 **[Georeferencing.org](https://georeferencing.org/)**, our one stop shop for georeferencing resources and tools.
