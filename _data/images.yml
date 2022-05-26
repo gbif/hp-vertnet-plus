@@ -43,7 +43,9 @@ GuloGulo:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/147435900/original.jpg
   caption: "[*Gulo gulo* (Linnaeus, 1758)](https://www.gbif.org/occurrence/3335324805) observed in Finland by yucbac (licensed under http://creativecommons.org/licenses/by-nc/4.0/.))"
 
-
+LionEyes:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/194789554/original.jpeg
+  caption: "[*Panthera leo subsp. melanochaita* (C.E.H.Smith, 1858)](https://www.gbif.org/occurrence/3772979571) observed in South Africa by leuli (licensed under http://creativecommons.org/licenses/by-nc/4.0/.))"
 
 Demo:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111359906/original.jpg?1611858020
