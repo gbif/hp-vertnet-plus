@@ -14,7 +14,7 @@ toc: true
 
 Sometimes you just need all the data, so we created these taxon-based data snapshots from the VertNet Index. Together, these datasets represent the entirety of the content within the VertNet data portal at a given point in time. Our goal is to update these snapshots quarterly. They will be made available to the public via [CyVerse](https://cyverse.org/) on their [Data Commons Repository](https://cyverse.atlassian.net/wiki/spaces/DC/overview). We’ll also keep our first set of snapshots up on the [KNB Data Repository](https://knb.ecoinformatics.org/), a [member repository of DataONE](https://www.dataone.org/network/#list-of-member-repositories). Both CyVerse and KNB will provide a persistent home for these datasets and mint a [DOI](https://www.doi.org/) (digital object identifier), so that you can refer to the dataset by name or by DOI, just like you would a publication.
 
-[How snapshots are created]()
+[How snapshots are created](https://hp-vertnet-plus.gbif-staging.org/resources/snapshots/)
 
 **SEPTEMBER 2016 - CYVERSE**
 - Amphibia – [dx.doi.org/10.7946/P2F59W](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Vertnet_Amphibia_Sep2016)
@@ -40,7 +40,7 @@ Sometimes you just need all the data, so we created these taxon-based data snaps
 
 ## Tools
 
-The VertNet portal is hosted by GBIF and built using the GBIF portal infrastructure. These tools can be modified and used on the VertNet portal.
+The VertNet portal is hosted by [GBIF](https://www.gbif.org/) and built using the GBIF portal infrastructure. These tools can be modified and used on the VertNet portal.
 
 **rGBIF**
 - [Packages](https://cran.r-project.org/web/packages/rgbif/index.html)
