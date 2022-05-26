@@ -10,17 +10,17 @@ height: 70vh
 ---
 
 # Things to add or fix
-1. https://hp-vertnet-plus.gbif-staging.org/resources/norms/#if-there-is-no-bibliographiccitation-or-occurrenceid-provided-in-the-record  The record number is being changed to 1.  It should be 105730.
-2. Contact Form - maybe just use Google Form
-3. Add partners link to About page.
-4. Add version to the footer.
-5.   
+- Contact Form - maybe just use Google Form
+- Add partners link to About page.
+- Add version to the footer.
+- New/Last snapshot of VN portal
+- GBIF Code links - explanation of how to modify rGBIF API for hosted portal.
 
 
 # Things to Remember
-1. Add Google Analytics
-2. Redirect Links
-3. New IP for old site - archive.vertnet.org
+- Add Google Analytics
+- Redirect Links
+- New IP for old site - archive.vertnet.org
 
 
 # Code Stuff
