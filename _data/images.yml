@@ -39,6 +39,10 @@ MudTurtle:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/109050948/original.jpeg
   caption: "[*Kinosternon leucostomum* (Duméril, Bibron & Duméril, 1851)](https://www.gbif.org/occurrence/3017969850) observed in Mexico by Ismael Arellano Ciau (licensed under http://creativecommons.org/licenses/by-nc/4.0/.))"
 
+GuloGulo:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/147435900/original.jpg
+  caption: "[*Gulo gulo* (Linnaeus, 1758)](https://www.gbif.org/occurrence/3335324805) observed in Finland by yucbac (licensed under http://creativecommons.org/licenses/by-nc/4.0/.))"
+
 
 
 Demo:
