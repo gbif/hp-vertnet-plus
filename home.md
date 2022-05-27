@@ -1,11 +1,12 @@
 ---
+layout: heroImage
 lang: en
 lang-ref: home
 layout: home
 title: Welcome to VertNet
 description: We strive to make people who work with biodiversity data more productive.<br>We provide tools and services to make data easy to find, easy to publish, and easy to use. 
-background: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.src}}"
-imageLicense: "{{site.data.images.RedSandVertebrae_1316689934_Cropped.caption}}"
+background: "{{site.data.images.LionEyes.src}}"
+imageLicense: "{{site.data.images.LionEyes.caption}}"
 height: 75vh
 cta:
   - text: Search
@@ -25,7 +26,8 @@ composition:
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---
 
+## We strive to make people who work with biodiversity data more productive.<br>We provide tools and services to make data easy to find, easy to publish, and easy to use.
 
-<!--- Text can go here. -->
+## [Let us know how we can help you!](CONTACT FORM LINK)
 
 
