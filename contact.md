@@ -6,7 +6,7 @@ title: Contact Us
 description: 
 background: "{{site.data.images.Operator.src}}"
 imageLicense: "{{site.data.images.Operator.caption}}"
-height: 70vh
+height: 50vh
 toc: false
 ---
 
