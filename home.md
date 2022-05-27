@@ -26,8 +26,4 @@ composition:
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---
 
-## We strive to make people who work with biodiversity data more productive.<br>We provide tools and services to make data easy to find, easy to publish, and easy to use.
-
-## [Let us know how we can help you!](CONTACT FORM LINK)
-
 
