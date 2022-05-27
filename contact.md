@@ -10,5 +10,5 @@ height: 50vh
 toc: false
 ---
 
-## Thanks for your help to make VertNet great for everyone. The more information you can provide to us, the better. We respond to all submissions. You can also contact any member of the VertNet Team directly if you prefer.
+## Thanks for your help to make VertNet great for everyone. The more information you can provide to us, the better. We respond to all submissions.
 
