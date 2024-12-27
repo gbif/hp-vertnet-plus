@@ -15,37 +15,31 @@ VertNet is a collaborative project, formerly funded by the U.S. National Science
 
 ## What we do
 
-Temptext: Something pithy
-
-| Data Mobilization | Education | Product Development | Reasearch | Consulting/Support | Standards |
-| ----------- | ----------- | ----------- | -------------- | --------------- | ------------- |
-| list A | List B | List C | List D | List E | List F |
-
+The VertNet Core Team and its merry band of accomplices and confederates and can help you to improve your projects and connect to the broad data-sharing, biodiversity science and informatics communities. Ask us how we can help you with **Data Mobilization**, **Education and Training**, **Tools Development**, **Research**, **Data Standards**, and **Consulting and Project Support**.
 
 
 ## The Core VertNet Team
 
-We are a group of like-minded individuals with diverse knowledge and skill sets:
-* David Bloom, Project Coordinator [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
-* Sharon Grant, Guardian Angel (Technology Liaison to Science @ The Field Museum) [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
-* Rob Guralnick, Muckraker (Professor, Curator of Biodiversity Informatics @ the Univ. of Florida/FLMNH) [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-6682-1504)
-* John Wieczorek, Information Architect [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1144-0290)
-* Paula Zermoglio, Research Lead [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6056-5084)
+**David Bloom**, Project Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
+**John Wieczorek**, Information Architect [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1144-0290)
 
 
 ## VertNet Accomplices and Confederates
 
-We wouldn't be who we are without an amazing group of active partners and collaborators:
+We wouldn't be who we are without an amazing group of engaged partners and collaborators:
 
 * Steve Baskauf, Venderbuilt University [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-4365-3135)
 * Laura Brenskelle, FLMNH/Univ. of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-9284-8871)
 * Arthur Chapman, Global Nomad [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1700-6962)
 * Peter Desmet, INBO [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-8442-8025)
 * Kitty Emery, FLMNH/University of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4031-1968)
+* Sharon Grant, Guardian Angel, The Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
+* Rob Guralnick, Muckraker, FLMNH/Univ. of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-6682-1504)
 * Rafael LaFrance, FLMNH/Univ. of Florida
 * Anabela Plos, Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" - MACN-CONICET / GBIF Argentina [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-3877-7408)
 * Laura Russell, GBIF [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1920-5298)
 * Ramona Walls, Bio5 Institute, University of Arizona [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8815-0078)
+* Paula Zermoglio, Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural, UNRN-CONICET [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6056-5084)
 * Rob Zschernitz, The Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8777-7143)
 
 ## Honorary Pantheon of The Backbone
