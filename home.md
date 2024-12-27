@@ -4,7 +4,7 @@ lang: en
 lang-ref: home
 layout: home
 title: Welcome to VertNet
-description: Biodiversity data with backbone! Tah Dah
+description: Biodiversity data with backbone!
 background: "{{site.data.images.VNCollage3.src}}"
 imageLicense: "{{site.data.images.VNCollage3.caption}}"
 height: 75vh
