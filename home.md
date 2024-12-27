@@ -5,8 +5,8 @@ lang-ref: home
 layout: home
 title: Welcome to VertNet
 description: Biodiversity data with backbone! 
-background: "{{site.data.images.VNCollage2.src}}"
-imageLicense: "{{site.data.images.VNCollage2.caption}}"
+background: "{{site.data.images.VNCollage3.src}}"
+imageLicense: "{{site.data.images.VNCollage3.caption}}"
 height: 75vh
 cta:
   - text: Search
