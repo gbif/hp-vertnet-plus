@@ -4,9 +4,9 @@ lang: en
 lang-ref: home
 layout: home
 title: Welcome to VertNet
-description: We strive to make people who work with biodiversity data more productive.<br>We provide tools and services to make data easy to find, easy to publish, and easy to use. 
-background: "{{site.data.images.LionEyes.src}}"
-imageLicense: "{{site.data.images.LionEyes.caption}}"
+description: Biodiversity data with backbone! 
+background: "{{site.data.images.VNCollage2.src}}"
+imageLicense: "{{site.data.images.VNCollage2.caption}}"
 height: 75vh
 cta:
   - text: Search
