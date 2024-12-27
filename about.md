@@ -21,6 +21,7 @@ The VertNet Core Team and its merry band of accomplices and confederates and can
 ## The Core VertNet Team
 
 **David Bloom**, Project Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
+
 **John Wieczorek**, Information Architect [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1144-0290)
 
 
