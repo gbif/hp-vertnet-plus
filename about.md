@@ -15,7 +15,7 @@ VertNet is a collaborative project, formerly funded by the U.S. National Science
 
 ## What we do
 
-The VertNet Core Team and its merry band of accomplices and confederates and can help you to improve your projects and connect to the broad data-sharing, biodiversity science and informatics communities. Ask us how we can help you with **Data Mobilization**, **Education and Training**, **Tools Development**, **Research**, **Data Standards**, and **Consulting and Project Support**.
+The VertNet Core Team and its merry band of accomplices and confederates and can help you to improve your projects and connect to the broad data-sharing, biodiversity science and informatics communities. [**Ask us how we can help you**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} with **Data Mobilization**, **Education and Training**, **Tools Development**, **Research**, **Data Standards**, and **Consulting and Project Support**.
 
 
 ## The Core VertNet Team
