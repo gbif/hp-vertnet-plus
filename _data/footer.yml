@@ -18,7 +18,7 @@ columns:
 
   - name: Connect
     description: | # Can be Markdown
-      * [Feedback/Contact](pending)
+      * [Feedback/Contact Us](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"}
     connectIcons: true
 
   # EXAMPLE
