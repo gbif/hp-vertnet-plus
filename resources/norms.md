@@ -20,8 +20,8 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 ### WHAT WE BELIEVE
 * Biodiversity data should be as complete, discoverable, and accessible as possible.
 * Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
-* Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide/#what-can-be-protected-by-copyright-and-licensing)).
-* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets be published under the designation of the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
+* Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](/resources/datalicensingguide/#what-can-be-protected-by-copyright-and-licensing)).
+* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets be published under the designation of the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/){:target="_blank"} waiver to affirm clearly that the data are in the public domain.
 * Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
 * The licensing and waiver process should be as simple as possible for data publishers and for users (results may vary from collection to collection).
 * All data publishers should get the credit they deserve when the data they curate are used by others.
@@ -43,12 +43,12 @@ Let VertNet data publishers and the broader community know if — and how — yo
 * You and your work reach a wider audience through an expanded presence. (Yes, we publicize and celebrate the work that people do with data published through VertNet.)
 * Everyone - data publishers, bioinformatics projects, and researchers - to raise the money needed to keep the data, products, services, and research alive.
 
-You can [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} or share your work with any member of the [VertNet team](/about/) directly.
+You can [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} or share your work with any member of the [VertNet team](/about/#the-core-vertnet-team) directly.
 
 Communicate with the data publisher(s) directly. Let them know if you have comments or questions, notice errors, or want more information about the data they publish. We've provided you with three ways to start a conversation:
 
 * Post an issue directly from the VertNet data portal. It's simple and we've posted instructions on [our blog](http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at).
-* Contact the data publisher directly using the contact information provided within each dataset published through VertNet via the [Publishers page](NEEDS UPDATE) on the VertNet portal.
+* Contact the data publisher directly using the contact information provided within each dataset published through VertNet or GBIF.
 * Use the [feedback form](PENDING PAGE) provided at the top of every VertNet web page.
 
 ### RESPECT THE DATA LICENSE OR WAIVER
@@ -125,9 +125,10 @@ NOTE: These norms may be subject to minor revisions without notice; major revisi
 
 If you have any questions about this document, please [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"}.
 
-Visit our [Help & How To](https://hp-vertnet-plus.gbif-staging.org/resources/help/) page for more resources created for the VertNet project.
+Visit our [Help & How To](/resources/help/) page for more resources created for the VertNet project.
 
 If you'd like to adapt these norms to your own project or work, please fork our [norms repository](https://github.com/VertNet/norms-for-data-use on GitHub.
 
 
 > Orig Release, 12Sept2014 (David Bloom)
+> Updated, December 2024 (David Bloom)
