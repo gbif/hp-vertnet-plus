@@ -13,7 +13,7 @@ permalink: /resources/norms.html
 
 ## NORMS FOR DATA USE AND PUBLICATION
 
-This document describes the [VertNet](http://www.vertnet.org/) norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered code of conduct that anyone who publishes data to or uses data downloaded from VertNet are expected to uphold. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
+This document describes the VertNet norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered code of conduct that anyone who publishes data to or uses data downloaded from VertNet are expected to uphold. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
 VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their efforts to develop [the norms](https://community.canadensys.net/about/norms) upon which this document is based.
 
@@ -43,7 +43,7 @@ Let VertNet data publishers and the broader community know if — and how — yo
 * You and your work reach a wider audience through an expanded presence. (Yes, we publicize and celebrate the work that people do with data published through VertNet.)
 * Everyone - data publishers, bioinformatics projects, and researchers - to raise the money needed to keep the data, products, services, and research alive.
 
-You can [contact us](PENDING PAGE) or share your work with any member of the [VertNet team](http://www.vertnet.org/about/) directly.
+You can [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} or share your work with any member of the [VertNet team](/about/) directly.
 
 Communicate with the data publisher(s) directly. Let them know if you have comments or questions, notice errors, or want more information about the data they publish. We've provided you with three ways to start a conversation:
 
@@ -54,7 +54,7 @@ Communicate with the data publisher(s) directly. Let them know if you have comme
 ### RESPECT THE DATA LICENSE OR WAIVER
 Understand and respect the data license or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the rights field of every record and in the dataset metadata. In some cases, data publishers have published using non-standard terms of use. These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
 
-To help data publishers make the best decision about how to license or waive rights to their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide/). Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).
+To help data publishers make the best decision about how to license or waive rights to their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](/resources/datalicensingguide/). Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Do not remove the public domain mark or provide misleading information about the copyright status.
 
@@ -121,9 +121,9 @@ All the elements can be found in fields contained within downloaded records or i
 
 * \[link to dataset\]: in the field \[dataSource\] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
 
-NOTE: These norms may be subject to minor revisions without notice; major revisions will be announced on the VertNet [web site](http://www.vertnet.org/), [data portal](https://hp-vertnet-plus.gbif-staging.org/data/), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg) and [Facebook](https://www.facebook.com/VertNet)).
+NOTE: These norms may be subject to minor revisions without notice; major revisions will be announced on the VertNet web site, data portal and social media ([Twitter](https://twitter.com/vertnetorg) and [Facebook](https://www.facebook.com/VertNet)).
 
-If you have any questions about this document, please contact [VertNet's support team](pending page).
+If you have any questions about this document, please [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"}.
 
 Visit our [Help & How To](https://hp-vertnet-plus.gbif-staging.org/resources/help/) page for more resources created for the VertNet project.
 
