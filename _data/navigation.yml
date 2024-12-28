@@ -28,7 +28,9 @@
     href: /share/share-data
   - text: VertNet IPT
     href: /share/ipt
-- text: Feedback
+- text: Contact
+  href: /contact
+# - text: Feedback
   href: /feedback
 # - text: Links
   menu: # Dropdown menu (one level deep only)
