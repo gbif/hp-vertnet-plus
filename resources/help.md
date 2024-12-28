@@ -13,7 +13,7 @@ toc: true
 # VertNet Guides
 * [VertNet Norms for Data Use and Publication](https://hp-vertnet-plus.gbif-staging.org/resources/norms/)
 * [Guide to Copyright and Licenses for Dataset Publication](https://hp-vertnet-plus.gbif-staging.org/resources/datalicensingguide/)
-* ?? Citation Help ??
+* Citation Help: You can follow the citation guidelines in the [VertNet Norms for Data Use and Publication](https://hp-vertnet-plus.gbif-staging.org/resources/norms/) OR you can follow the guidance provided by [GBIF's Citation Guidelines](https://www.gbif.org/citation-guidelines){:target="_blank"}.
 
 # Georeferencing Resources
 **[Georeferencing.org](https://georeferencing.org/){:target="_blank"}**, our one stop shop for georeferencing resources and tools.
@@ -38,12 +38,15 @@ toc: true
 
 
 # VertNet Data Portal FAQ
-## Do I need to register with GBIF to download data from the VertNet Data Portal?
+### Do I need to register with GBIF to download data from the VertNet Data Portal?
 Yes, you need to register with GBIF. To improve sustainability and to keep data in the VertNet portal as current as possible, we are now sharing GBIF's data index. As a result, download requests will be processed through GBIF. Registration is **FREE** and it will maintain history of your searches and downloads for easy reference.
 To register, visit [GBIF](https://www.gbif.org/){:target="_blank"}, and click the "**Login**" in the upper right-hand corner. Next, select the **REGISTER** tab and get started.
 
-## How can I publish my collection data to VertNet, GBIF, iDigBio and other data portals?
+### How can I publish my collection data to VertNet, GBIF, iDigBio and other data portals?
 If you are ready to publish data, simply [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} and let us know. We'll follow up with you and get the processes started.
 
-## Who do I contact if I have questions about, or find errors in, the data?
+### Who do I contact if I have questions about, or find errors in, the data?
 We recommend that you contact the data publisher to ask questions and to communicate any issues with their data. If you cannot reachthe publisher, you are welcome to [**contact us**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} and we can help you to notify the publisher directly.
+
+### How do I cite data and datasets?
+You can follow the citation guidelines in the [VertNet Norms for Data Use and Publication](https://hp-vertnet-plus.gbif-staging.org/resources/norms/) OR you can follow the guidance provided by [GBIF's Citation Guidelines](https://www.gbif.org/citation-guidelines){:target="_blank"}.
