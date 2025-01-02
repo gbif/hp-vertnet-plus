@@ -10,8 +10,6 @@ height: 70vh
 toc: true
 ---
 
-New image needed
-
 ## By the VertNet Team and Collaborators
 
 **[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623){:target="_blank"}**
