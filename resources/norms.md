@@ -130,4 +130,5 @@ Visit our [Help & How To](/resources/help/) page for more resources created for 
 If you'd like to adapt these norms to your own project or work, please fork our [norms repository](https://github.com/VertNet/norms-for-data-use on GitHub.
 
 
-> Orig Release, 12Sept2014 (David Bloom) | > Updated, December 2024 (David Bloom)
+> Orig Release, 12Sept2014 (David Bloom)
+> Updated, December 2024 (David Bloom)
