@@ -4,8 +4,8 @@ lang: en
 lang-ref: Selected Publications
 title: Selected Publications
 description: 
-background: "{{site.data.images.PoisonDart.src}}"
-imageLicense: "{{site.data.images.PoisonDart.caption}}"
+background: "{{site.data.images.Ensatina.src}}"
+imageLicense: "{{site.data.images.Ensatina.caption}}"
 height: 70vh
 toc: true
 ---
