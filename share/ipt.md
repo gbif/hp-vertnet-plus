@@ -28,7 +28,7 @@ Hosting your data on the [VertNet IPT](http://ipt.vertnet.org/){:target="_blank"
 
 ### How much control do we have over what is published?
 
-You decide what to publish and how often you update your data. VertNet does not claim any ownership of your data. You will have the opportunity to apply [waivers and terms of use](/resources/datalicensingguide.html) to your data set(s) prior to publication — a VertNet team member will discuss this with you when we begin the process of data mobilization.
+You decide what to publish and how often you update your data. VertNet does not claim any ownership of your data. You will have the opportunity to apply [waivers and terms of use](/resources/datalicensingguide) to your data set(s) prior to publication — a VertNet team member will discuss this with you when we begin the process of data mobilization.
 
 Data for an entire organization can be published in one data set, or in data sets specific to independently curated collections. The decision is up to you, but it will affect how your user statistics in varous data portals are aggreagated and delivered. When we begin working with you to publish via IPT, we will discuss the details of the best way to accommodate the needs of your organization.
 
