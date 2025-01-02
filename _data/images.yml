@@ -58,6 +58,9 @@ VNCollage3:
  by mattdowse (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Pituophis catenifer deserticola* (Stejneger, 1893)](https://www.gbif.org/occurrence/3018007229) observed in United States of America by Alan Cortes (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Martes americana* (Turton, 1806)](https://www.gbif.org/occurrence/3017953096) observed in Canada
  by Jeffrey H. Skevington (licensed under http://creativecommons.org/licenses/by-nc/4.0/))"
 
+Ensatina:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/109206263/large.jpg
+  caption: "[*Ensatina eschscholtzii* (Gray, 1850)](https://www.gbif.org/occurrence/3018020008) Observed in United States of America by edoswalt (licensed under http://creativecommons.org/licenses/by-nc/4.0/))"
 
 Demo:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111359906/original.jpg?1611858020
