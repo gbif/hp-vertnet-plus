@@ -10,7 +10,7 @@ height: 70vh
 toc: true
 ---
 
-DOWNLOAD [PDF VERSION]() OF THE GUIDE
+DOWNLOAD [PDF VERSION](/assets/documents/VertNet_GuidetoCopyrightandLicenses_March2014.pdf) OF THE GUIDE
 
 # INTRODUCTION
 This quick guide is intended to give data publishers and users of data published to the VertNet portal, as well as other biodiversity data portals, an understanding of the uses and limits of copyright, licensing, and waivers for biodiversity data and datasets. This is NOT a legal document or contract. This IS a well-researched guide intended to provide you with a clear understanding of the issues surrounding data sets, copyright, licenses, and the public domain. We’ve also conversed extensively with our friends at [Canadensys](http://www.canadensys.net/), legal professionals (for legal accuracy where appropriate), and others who have conducted a sizable amount of [research on these topics](pending new link) on their own.
