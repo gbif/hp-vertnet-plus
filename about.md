@@ -18,11 +18,9 @@ VertNet is a collaborative project, formerly funded by the U.S. National Science
 The VertNet Core Team and its merry band of accomplices and confederates and can help you to improve your projects and connect to the broad data-sharing, biodiversity science and informatics communities. [**Ask us how we can help you**](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"} with **Data Mobilization**, **Education and Training**, **Tools Development**, **Research**, **Data Standards**, and **Consulting and Project Support**.
 
 
-## The Core VertNet Team
+## The VertNet Steward
 
-**David Bloom**, Project Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
-
-**John Wieczorek**, Information Architect [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1144-0290)
+**[David Bloom] (mailto:dbloom@vertnet.org)**, Project Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
 
 
 ## VertNet Accomplices and Confederates
@@ -38,8 +36,10 @@ We wouldn't be who we are without an amazing group of engaged partners and colla
 * Rob Guralnick, Muckraker, FLMNH/Univ. of Florida [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-6682-1504)
 * Rafael LaFrance, FLMNH/Univ. of Florida
 * Anabela Plos, Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" - MACN-CONICET / GBIF Argentina [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-3877-7408)
+* Tim Robertson, GBIF [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-6215-3617)
 * Laura Russell, GBIF [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1920-5298)
 * Ramona Walls, Bio5 Institute, University of Arizona [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8815-0078)
+* John Wieczorek, Information Architect [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1144-0290)
 * Paula Zermoglio, Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural, UNRN-CONICET [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6056-5084)
 * Rob Zschernitz, The Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-8777-7143)
 
