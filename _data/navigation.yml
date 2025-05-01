@@ -3,7 +3,7 @@
 - text: About
   href: /about
 - text: Search
-  href: /data
+  href: /data/?view=map
 - text: Publishers
   href: /data?view=DATASETS
 - text: Resources
