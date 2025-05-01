@@ -20,7 +20,7 @@ The VertNet Core Team and its merry band of accomplices and confederates and can
 
 ## The VertNet Steward
 
-**[David Bloom] (mailto:dbloom@vertnet.org)**, Project Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
+**[David Bloom](mailto:dbloom@vertnet.org)**, Project Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
 
 
 ## VertNet Accomplices and Confederates
