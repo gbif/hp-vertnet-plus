@@ -12,8 +12,10 @@ cta:
   - text: Search
     href: /data
     isPrimary: true
-  - text: Learn more
-    href: /about
+  - text: Why is Everything Different?
+    href: /news 
+#  - text: Learn more
+#    href: /about
 #  - text: VertNet Classic
 #    href: http://portal.vertnet.org/search
 permalink: /
