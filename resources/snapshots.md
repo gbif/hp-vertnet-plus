@@ -4,8 +4,8 @@ lang: en
 lang-ref: Snapshots
 title: Snapshot Creation
 description: 
-background: {{site.data.images.GuloGulo.src}}
-imageLicense: {{site.data.images.GuloGulo.caption}}
+background: "{{site.data.images.GuloGulo.src}}"
+imageLicense: "{{site.data.images.GuloGulo.caption}}"
 height: 70vh
 toc: true
 ---
