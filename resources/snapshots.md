@@ -4,9 +4,9 @@ lang: en
 lang-ref: Snapshots
 title: Snapshot Creation
 description: 
-background: 
-imageLicense: 
-height: 40vh
+background: {{site.data.images.GuloGulo.src}}
+imageLicense: {{site.data.images.GuloGulo.caption}}
+height: 70vh
 toc: true
 ---
 
@@ -22,7 +22,4 @@ toc: true
 
 ** The metadata we create is in the same format we use for any other resource in VertNet.
 
-[Back to Datasets, Tools & Code](https://hp-vertnet-plus.gbif-staging.org/resources/datasets-tools/)
-
-background: "{{site.data.images.GuloGulo.src}}"
-imageLicense: "{{site.data.images.GuloGulo.caption}}"
+[Back to Datasets, Tools & Code](/resources/datasets-tools/)
