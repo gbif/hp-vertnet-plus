@@ -22,7 +22,7 @@ See our [Georeferencing Page](/resources/georef/) for tools, guides and document
 # VertNet Data Portal FAQ
 ## Do I need to register with GBIF to download data from the VertNet Data Portal?
 Yes, you need to register with GBIF. To improve sustainability and to keep data in the VertNet portal as current as possible, we are now sharing GBIF's data index. As a result, download requests will be processed through GBIF. Registration is **FREE** and it will maintain history of your searches and downloads for easy reference.
-To register, visit [GBIF](https://www.gbif.org/){:target="_blank"}, and click the "**Login**" in the upper right-hand corner. Next, select the **REGISTER** tab and get started.
+To register, [visit GBIF](https://www.gbif.org/){:target="_blank"}, and click the "**Login**" in the upper right-hand corner. Next, select the **REGISTER** tab and get started.
 
 ## How can I publish my collection data to VertNet, GBIF, iDigBio and other data portals?
 If you are ready to publish data, simply [**contact us**](contact/){:target="_blank"} and let us know. We'll follow up with you and get the processes started.
