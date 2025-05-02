@@ -54,4 +54,4 @@ The frequency with which you update your data is entirely up to you. Many update
 
 Use of the VertNet IPT is free and will cost you nothing. Nada. Zero. Zip. We are happy to accept home-baked goods in exchange for this service - cookies, muffins, cinnamon rolls and the like.
 
-**Ready to get started? [Let us know.](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"}**
+**Ready to get started? [Let us know.](/contact/){:target="_blank"}**
