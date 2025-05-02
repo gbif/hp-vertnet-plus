@@ -35,4 +35,4 @@ Georeferencing is an important part of the VertNet project and an essential comp
   - **Citation:** Arthur D. Chapman (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
   - [PDF Version](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf){:target="_blank"}
 
-Interested in a Georeferencing Workshop? [Contact us](https://forms.gle/yCXVSCH8Y3HAMerR7){:target="_blank"}.
+Interested in a Georeferencing Workshop? [Contact us](/contact/){:target="_blank"}.
