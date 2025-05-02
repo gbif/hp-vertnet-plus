@@ -112,7 +112,7 @@ We would add only that you may be a data publisher, but you’re probably a data
 # THE REAL SOLUTION
 As the number of datasets grows and access to these datasets expands, the use of data licenses, even when they apply, is not the solution to the problems of giving credit where credit is due. We believe the solution is a robust set of social norms that govern the behavior of people who publish and use biodiversity data. This won’t happen overnight, but the process has begun. Canadensys has already published a set of [norms for data use and publication](https://community.canadensys.net/about/norms){:target="_blank"}. VertNet is in the process of adopting these norms (as of March, 2014), and encourages other aggregators to encourage the adoption of similar norms within their communities.
 
-As with all VertNet resources, if you have any questions or comments, please let us know ([norms for data use and publication](mailto:dbloom@vertnet.org)).
+As with all VertNet resources, if you have any questions or comments, [please let us know]([/contact/).
 
 # I'VE SELECTED A LICENSE, WHERE DOES IT GO?
 Once you have decided on the license or waiver you wish to use, you need to make sure it’s attached to your data set. We recommend the following protocol:
@@ -157,7 +157,7 @@ If you are using the GBIF’s [Integrated Publishing Toolkit](https://www.gbif.o
 * [Attribution Stacking via Creative Commons](https://creativecommons.org/about/program-areas/open-science/){:target="_blank"}
 * [Attribution Stacking Example](http://wir.okfn.org/2012/01/27/attribution-stacking-as-a-barrier-to-reuse/){:target="_blank"}
 
-If you have any questions about this document, please contact [VertNet's support team](PENDING LINK).
+If you have any questions about this document, please [contact us](/contact/).
 
 Visit our [Resources](/resources/help/) page for more resources created for the VertNet project.
 
