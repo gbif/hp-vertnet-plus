@@ -65,7 +65,7 @@ We invite any institution with biological or natural history collections (not ju
 * The desire to share your data with scientists, researchers, educators, and others around the world.
 * A willingness to maintain and improve your data over time.
 
-If you have all three, or if you have questions, please contact [VertNet’s support team](PENDING PAGE) and we’ll get you and your data started on the path to publication and discovery.
+If you have all three, or if you have questions, please contact [us](/contact/) and we’ll get you and your data started on the path to publication and discovery.
 
 ### PREFERRED CITATIONS
 In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through VertNet. Square brackets denote values that must be obtained either from records within a dataset or from the description of the dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
