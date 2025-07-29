@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     links:
-    - text: Vertnet Team
+    - text: VertNet Team
       href: https://hp-vertnet-plus.gbif-staging.org/about/#the-core-vertnet-team
     - text: Project Partners
       href: https://hp-vertnet-plus.gbif-staging.org/partners/
