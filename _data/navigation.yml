@@ -3,9 +3,17 @@
 - text: About
   href: /about
 - text: Search
-  href: /data/?view=map
-- text: Publishers
-  href: /data?view=DATASETS
+  menu:
+  - text: Occurrences
+  - href: /occurrence/search
+  - text: Collections
+  - href: /collection/search
+  - text: Institutions
+  - href: /institution/search
+  - text: Datasets
+  - href: /dataset/search
+  - text: Literature
+  - href: /literature/search
 - text: Resources
   menu: # Dropdown menu
   - text: Help & How To
