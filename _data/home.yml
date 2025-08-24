@@ -15,3 +15,51 @@ stats:
       description: Publishers
       # background: /assets/images/some-icon-perhaps.png
       # href: /somewhere?
+
+about:
+  reverse: true
+  title: Vertebrates, all day, every day
+  description: |      # required
+      VertNet makes vertebrate-based biodiversity information available to everyone - for free. We are a network of individuals, organizations and institutions that explore, study and care about and share vetrebrate species data globally.
+  # img required
+  background: /assets/images/tree-canopy.jpeg
+  ratio: 70
+
+explorer:
+  reverse: false
+  title: Data Discovery
+  description: |
+      Access, browse, visualize and filter vertebrate data
+  background: /assets/images/Map-Canadensys.png
+  ratio: 70
+  #href: /occurrence/search?view=MAP
+  cta:
+  - text: Occurrences
+    href: /occurrence/search
+    isPrimary: true
+  - text: Collections
+    href: /collection/search
+  - text: Datasets
+    href: /dataset/search
+  - text: Institutions
+    href: /institutions/search
+  - text: Litrerature
+    href: /literature/search
+
+resources:
+  reverse: true
+  title: Get involved
+  description: |
+      Explore our documentation, discover tools and contact us so we can help you to share your data with the global biodiversity data-sharing community - we work with all taxa
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/256402192/original.jpg
+  ratio: 70
+  imageLicense: |
+    <em>Cardinalis cardinalis</em> (Linnaeus, 1758) observed in Canada by jnaffy via [iNaturalist](https://www.gbif.org/occurrence/4039169691)
+  cta:
+  - text: Help & How To
+    href: /resources/help/
+    isPrimary: true
+  - text: Tools
+    href: /resources/datasets-tools/
+  - text: Share Your Data
+    href: /resources/share-data/
