@@ -5,15 +5,15 @@
 - text: Search
   menu:
   - text: Occurrences
-  - href: /occurrence/search
+    href: /occurrence/search
   - text: Collections
-  - href: /collection/search
+    href: /collection/search
   - text: Institutions
-  - href: /institution/search
+    href: /institution/search
   - text: Datasets
-  - href: /dataset/search
+    href: /dataset/search
   - text: Literature
-  - href: /literature/search
+    href: /literature/search
 - text: Resources
   menu: # Dropdown menu
   - text: Help & How To
