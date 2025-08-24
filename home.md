@@ -10,7 +10,7 @@ imageLicense: "{{site.data.images.VNCollage3.caption}}"
 height: 75vh
 cta:
   - text: Search
-    href: /data
+    href: occurrence/search
     isPrimary: true
   - text: Why is Everything Different?
     href: /news 
