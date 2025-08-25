@@ -10,11 +10,11 @@ description:  The most recent announcements from GBIF.org for data users and dat
 # Filters
 # Use these options to tailor the content displayed in your block.
 filters:
-  audiences: 
-    - DATA_USERS
+  contentType: 
+    - DATA_USE
   # Set the number of items to showcase. Default is 6.
   limit: 3
 
   # Filter content by researcher's country using ISO country codes. (Optional)
-  purpose: 
-    - DATA_PUBLISHERS
+  # purpose: 
+  #  - DATA_PUBLISHERS
