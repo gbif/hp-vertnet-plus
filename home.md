@@ -24,6 +24,12 @@ composition:
   - data: home.stats
     type: stats
   # - type: pageMarkdown # there is currently no text on the page so just ignore this part
+  - type: split
+    data: home.about
+  - type: split
+    data: home.explorer
+  - type: split
+    data: home.resources
   - type: latestPosts
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---
