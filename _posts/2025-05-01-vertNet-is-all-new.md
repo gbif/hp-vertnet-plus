@@ -45,10 +45,10 @@ Yep, an increase in the number of vertebrate records - now ~25 million from 137 
 The portal now pulls data directly from the GBIF data index. That means that whenever data are updated in GBIF they will also be updated in VertNet automatically and simultaneously. Gone are the days when VertNet, GBIF, iDigBio and other portals were all working with different versions of the data (well, at least for VertNet and GBIF).  
 
 ### Images and media
-Yes! You can now search through more than 2 million images and other digital media resources. Or, if you want, you can just browse through [the gallery](/data/?view=gallery){:target="_blank"} for your own personal amusement.
+Yes! You can now search through more than 2 million images and other digital media resources. Or, if you want, you can just browse through [the gallery](/occurrence/search?view=gallery){:target="_blank"} for your own personal amusement.
 
 ### Map searches
-It actually works! The map has been the VertNet portal's achilles heel for a long time, but no more! [Check it out](/data/?view=map){:target="_blank"}.
+It actually works! The map has been the VertNet portal's achilles heel for a long time, but no more! [Check it out](/occurrence/search?view=map){:target="_blank"}.
 
 ### Better Search
 Not only do you get media and a map, you also have the ability to search an expanded number of fields. Yes, it’ll take a little getting used to, but we know you can do it. Once you do, you’ll get more of the data you need and less of the data you don’t, and fast, too.
@@ -84,5 +84,5 @@ Yeah, this guy is still everywhere and VertNet will continue to harass him relen
 
 That was A LOT. So we’ll leave you with this: If you have questions, [let Dave know](/contact/){:target="_blank"}. If you need help with the new portal, [let Dave know](/contact/){:target="_blank"}.
 
-Until then, we hope you find the new portal a useful tool that will provide the data you and your colleagues need to answer the most important questions about biodiversity and life on this beautiful blue rock of ours. Now, go [find yourself some data](/data/){:target="_blank"}.
+Until then, we hope you find the new portal a useful tool that will provide the data you and your colleagues need to answer the most important questions about biodiversity and life on this beautiful blue rock of ours. Now, go [find yourself some data](/occurrence/search){:target="_blank"}.
 

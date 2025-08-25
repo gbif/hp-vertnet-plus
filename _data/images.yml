@@ -25,7 +25,7 @@ PoisonDart:
 
 OccurrenceMap:
   src: assets/images/Galliformes_OccurrenceMap_VNPortal.png
-  caption: "[Occurrence map for Galliformes in the VertNet Data Portal](https://hp-vertnet-plus.gbif-staging.org/data/?taxonKey=723&view=MAP) accessed 2022-05-05."
+  caption: "[Occurrence map for Galliformes in the VertNet Data Portal](https://hp-vertnet-plus.gbif-staging.org/occurrence/search?taxonKey=723&view=MAP) accessed 2022-05-05."
  
 Pangolin:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/100484710/original.jpeg

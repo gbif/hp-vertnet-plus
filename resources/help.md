@@ -3,7 +3,7 @@ layout: heroImage
 lang: en
 lang-ref: Help & How To
 title: Help & How To
-description: This is where you’ll find a variety of guides, tutorials, and FAQs for publishing data and using the [VertNet Portal](/data/). Don’t forget to check Training Workshops and Publications & Videos for other descriptive and educational materials. We haven't forgotten about developers either. If all else fails, contact us with your questions.
+description: This is where you’ll find a variety of guides, tutorials, and FAQs for publishing data and using the [VertNet Portal](/occurrence/search). Don’t forget to check Training Workshops and Publications & Videos for other descriptive and educational materials. We haven't forgotten about developers either. If all else fails, contact us with your questions.
 background: "{{site.data.images.Seadragon.src}}"
 imageLicense: "{{site.data.images.Seadragon.caption}}"
 height: 70vh
