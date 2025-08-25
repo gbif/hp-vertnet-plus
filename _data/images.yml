@@ -68,7 +68,7 @@ CaliQuail:
   caption: "[*Callipepla californica* (Shaw, 1798)](https://www.gbif.org/occurrence/5006843564) observed in United States of America by M.R. Perry. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 Sockeye:
-  src: https://www.gbif.org/tools/zoom/simple.html?src=//api.gbif.org/v1/image/cache/occurrence/4946648831/media/25aba3d9aff17ed809e0c65d3dcb02b8
+  src: assets/images/Sockeye_Salmon.jpeg
   caption: "[*Oncorhynchus nerka* (Walbaum, 1792)](https://www.gbif.org/occurrence/4946648831) observed in Canada by Joanne Siderius. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 Pronghorn:
