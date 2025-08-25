@@ -36,6 +36,12 @@
     href: /share/share-data
   - text: VertNet IPT
     href: /share/ipt
+- text: News
+  menu: # Dropdown menu
+  - text: GBIF
+    href: /stories
+  - text: VertNet
+    href: /news
 - text: Contact
   href: /contact
 # - text: Feedback
