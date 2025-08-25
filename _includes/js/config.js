@@ -182,7 +182,7 @@ var siteConfig = {
     "publisherSearch": {
         // I do not believe we can set a reasonable scope with the current APIs
         scope: {
-
+            networkKey: vertnetNetworkKey
         }
     },
     "literatureSearch": {
