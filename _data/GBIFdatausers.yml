@@ -1,0 +1,20 @@
+# "Stories" Block Configuration Guide
+
+# Title (Optional)
+title: "Announcements from GBIF.org for Data Users and Publishers" 
+id: "stories-data-users"
+
+# Description (Optional)
+description:  The most recent announcements from GBIF.org for data users and data publishers.  To see older items go to [gbif.org](https://www.gbif.org/resource/search?q=DATA_HOLDERS%20OR%20DATA_USERS&audiences=DATA_HOLDERS){:target="_blank"}
+ 
+# Filters
+# Use these options to tailor the content displayed in your block.
+filters:
+  audiences: 
+    - DATA_USERS
+  # Set the number of items to showcase. Default is 6.
+  limit: 3
+
+  # Filter content by researcher's country using ISO country codes. (Optional)
+  purpose: 
+    - DATA_PUBLISHERS
