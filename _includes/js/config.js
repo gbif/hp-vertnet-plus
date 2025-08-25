@@ -13,6 +13,9 @@ var siteConfig = {
             "id": "occurrenceSearch"
         },
         {
+            "id": "occurrenceKey"
+        },
+        {
             "id": "datasetSearch"
         },
         {
