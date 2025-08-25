@@ -1,97 +1,196 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary,
-    fontSize: '16px'
-  }});
+    baseTheme: 'light', extendWith: {
+        primary: themeStyle.colors.primary
+    }
+});
+
+const vertnetNetworkKey = '99d66b6c-9087-452f-a9d4-f15f2c2d0e7e';
 
 var siteConfig = {
-  version: 2,
-  routes: {
-    enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey', 'datasetKey', 'datasetSearch', 'literature'], // what widgets do you include on your site. If not included we will link to gbif.org (for showing individual datasets for example)
-    alwaysUseHrefs: true, // if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
-  },
-  availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE', 'DATASET', 'LITERATURE'],
-  
-  occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      route: '/data'
+    "version": 3,
+    "pages": [
+        {
+            "id": "occurrenceSearch"
+        },
+        {
+            "id": "datasetSearch"
+        },
+        {
+            "id": "datasetKey"
+        },
+        {
+            "id": "literatureSearch"
+        },
+        {
+            "id": "publisherSearch"
+        },
+        {
+            "id": "publisherKey"
+        },
+        {
+            "id": "institutionSearch"
+        },
+        {
+            "id": "institutionKey"
+        },
+        {
+            "id": "collectionSearch"
+        },
+        {
+            "id": "collectionKey"
+        },
+    ],
+    "disableInlineTableFilterButtons": false,
+    "availableCatalogues": [
+        "OCCURRENCE",
+        "DATASET",
+        "LITERATURE",
+        // do the ones below here make sense?
+        "PUBLISHER",
+        "INSTITUTION",
+        "COLLECTION",
+    ],
+    "dataHeader": {
+        "enableApiPopup": false,
+        "enableInfoPopup": false
+    },
+    "theme": {
+        "primary": themeStyle.colors.primary,
+        "borderRadius": 3,
+        "stickyOffset": "0px"
+    },
+    "maps": {
+        "mapStyles": {
+            "defaultProjection": "MERCATOR",
+            "defaultMapStyle": "BRIGHT",
+            "options": {
+                "MERCATOR": [
+                    "BRIGHT",
+                    "NATURAL"
+                ]
+            }
+        }
+    },
+    "languages": [
+        {
+            "code": "en",
+            "localeCode": "en",
+            "label": "English",
+            "default": true,
+            "textDirection": "ltr",
+            "iso3LetterCode": "eng",
+            "cmsLocale": "en-GB",
+            "gbifOrgLocalePrefix": "",
+            "mapTileLocale": "en"
+        },
+        {
+            "code": "es",
+            "localeCode": "es",
+            "label": "Español",
+            "default": false,
+            "textDirection": "ltr",
+            "cmsLocale": "es",
+            "vocabularyLocale": "es-ES",
+            "iso3LetterCode": "spa",
+            "gbifOrgLocalePrefix": "/es",
+            "grSciCollLocalePrefix": "/es",
+            "mapTileLocale": "es"
+        },
+        {
+            "code": "fr",
+            "localeCode": "en",
+            "label": "English",
+            "default": false,
+            "textDirection": "ltr",
+            "iso3LetterCode": "eng",
+            "cmsLocale": "en-GB",
+            "gbifOrgLocalePrefix": "",
+            "mapTileLocale": "en"
+        }
+    ],
+    "messages": {},
+    "occurrenceSearch": {
+        "scope": {
+            "type": "and",
+            "predicates": [
+                {
+                    "type": "equals",
+                    "key": "networkKey",
+                    "value": vertnetNetworkKey
+                },
+                {
+                    "type": "equals",
+                    "key": "taxonKey",
+                    "value": "44"
+                }
+            ]
+        },
+        "highlightedFilters": [
+            "basisOfRecord",
+            "taxonKey",
+            "gadmGid",
+            "institutionCode",
+            "year"
+        ],
+        "excludedFilters": [
+            "protocol",
+            "networkKey",
+        ],
+        "defaultEnabledTableColumns": [
+            "features",
+            "institutionKey",
+            "collectionKey",
+            "catalogNumber",
+            "country",
+            "year",
+            "recordedBy",
+            "identifiedBy"
+        ],
+        "tabs": [
+            "table",
+            "gallery",
+            "map",
+            "datasets",
+            "clusters",
+            "dashboard",
+            "download"
+        ],
+    },
+    "collectionSearch": {
+        excludedFilters: ['country', 'active'],
+        // I do not believe we can set a reasonable scope with the current APIs
+        scope: {
+            displayOnNHCPortal: true,
+            active: true
+        },
+    },
+    // I do not believe we can set a reasonable scope with the current APIs
+    "institutionSearch": {
+        scope: {
+            displayOnNHCPortal: true,
+            active: true
+        }
+    },
+    "datasetSearch": {
+        excludedFilters: ['networkKey'],
+        highlightedFilters: ['q', 'type', 'publishingOrg', 'license'],
+        // defaultTableColumns: ['title', 'description', 'publisher', 'type', 'occurrenceCount', 'literatureCount'],
+        scope: {
+            networkKey: [vertnetNetworkKey]
+        },
+    },
+    "publisherSearch": {
+        // I do not believe we can set a reasonable scope with the current APIs
+        scope: {
+
+        }
+    },
+    "literatureSearch": {
+        "scope": {
+            "type": "equals",
+            "key": "gbifNetworkKey",
+            "value": vertnetNetworkKey
+        },
+          highlightedFilters: ['q', 'gbifTaxonKey', 'year']
     }
-  },
-  occurrence: {
-      // excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    availableTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'], 
-    mapSettings: {
-      lat: 60.0344351910359,
-      lng: -111.28467879517733,
-      zoom: 0.9115440763665068
-     },
-    
-    rootPredicate: {
-      "type": "and", "predicates": [
-        { "type": "equals", "key": "networkKey", "value": "99d66b6c-9087-452f-a9d4-f15f2c2d0e7e" },
-        { "type": "equals", "key": "taxonKey", "value": "44" }
-      ]
-    },
-    highlightedFilters: ['basisOfRecord', 'taxonKey', 'gadmGid', 'institutionCode', 'year'],
-    excludedFilters: ['protocol']
-  }
-},
-
-     occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS', "CLUSTERS", "DASHBOARD"] // what tabs should be shown
-  },
-  //routes: {
-    //occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      //route: '/data'
-    //},
-
-  collection: {
-    // filters on the grscicoll institution v1 API https://www.gbif.org/developer/summary
-    // https://hp-theme.gbif-staging.org/data-exploration-config
-    rootFilter: {
-      predicate: {type: 'equals', key: 'networkKey', value: '99d66b6c-9087-452f-a9d4-f15f2c2d0e7e'},
-      { "type": "equals", "key": "taxonKey", "value": "44" }
-      displayOnNHCPortal: true,
-      active: true
-    },
-    //excludedFilters: ['countrySingleGrSciColl'],// no reason to show a filter on country, when there is only one
-  },
-
-  institution: {
-    rootFilter: {
-      {type: 'equals', key: 'networkKey', value: '99d66b6c-9087-452f-a9d4-f15f2c2d0e7e'},
-      { "type": "equals", "key": "taxonKey", "value": "44" }
-      displayOnNHCPortal: true,
-      active: true
-    },
-    //excludedFilters: ['countrySingleGrSciColl'],// no reason to show a filter on country, when there is only one
-    mapSettings: {
-      enabled: true, // show a map on institution search?
-      lat: 60.0344351910359,
-      lng: -111.28467879517733,
-      zoom: 0.9115440763665068
-    },
-  },
-
-  dataset: {
-    rootFilter: {
-      {type: 'equals', key: 'networkKey', value: '99d66b6c-9087-452f-a9d4-f15f2c2d0e7e'},
-      { "type": "equals", "key": "taxonKey", "value": "44" }
-    },
-    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
-    excludedFilters: ['publishingCountryCode'],
-  },
-
-  literature: {
-    rootFilter: {
-      {type: 'equals', key: 'networkKey', value: '99d66b6c-9087-452f-a9d4-f15f2c2d0e7e'},
-      { "type": "equals", "key": "taxonKey", "value": "44" }
-    },
-    highlightedFilters: ['q', 'scientificName', 'year']
-  },
 };
-
-//if (pageLang === 'es')  {siteConfig.routes.occurrenceSearch.route = '/datos';}
