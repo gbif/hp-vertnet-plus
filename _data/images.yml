@@ -53,10 +53,11 @@ Operator:
 
 VNCollage3:
   src: assets/images/VNCollage3.png
-  caption: "L to R: [*Surnia ulula* (Linnaeus, 1758)](https://www.gbif.org/occurrence/3013520309) observed in Norway by Per Willy Bøe (licensed under http://creativecommons.org/licenses/by/4.0/.); [*Globicephala melas* (Traill, 1809)](https://www.gbif.org/occurrence/2244336087) observed in New Zealand
- by Rowan Hindmarsh-Walls (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Leptopelis mossambicus* (Poynton, 1985)](https://www.gbif.org/occurrence/3031653220) observed in Mozambique by andreaswenzel (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Pseudanthias rubrizonatus* (Randall, 1983)](https://www.gbif.org/occurrence/3017978267) observed in Australia
- by mattdowse (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Pituophis catenifer deserticola* (Stejneger, 1893)](https://www.gbif.org/occurrence/3018007229) observed in United States of America by Alan Cortes (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Martes americana* (Turton, 1806)](https://www.gbif.org/occurrence/3017953096) observed in Canada
- by Jeffrey H. Skevington (licensed under http://creativecommons.org/licenses/by-nc/4.0/))"
+  caption: |
+    L to R: [*Surnia ulula* (Linnaeus, 1758)](https://www.gbif.org/occurrence/3013520309) observed in Norway by Per Willy Bøe (licensed under http://creativecommons.org/licenses/by/4.0/.); [*Globicephala melas* (Traill, 1809)](https://www.gbif.org/occurrence/2244336087) observed in New Zealand
+    by Rowan Hindmarsh-Walls (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Leptopelis mossambicus* (Poynton, 1985)](https://www.gbif.org/occurrence/3031653220) observed in Mozambique by andreaswenzel (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Pseudanthias rubrizonatus* (Randall, 1983)](https://www.gbif.org/occurrence/3017978267) observed in Australia
+    by mattdowse (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Pituophis catenifer deserticola* (Stejneger, 1893)](https://www.gbif.org/occurrence/3018007229) observed in United States of America by Alan Cortes (licensed under http://creativecommons.org/licenses/by-nc/4.0/); [*Martes americana* (Turton, 1806)](https://www.gbif.org/occurrence/3017953096) observed in Canada
+    by Jeffrey H. Skevington (licensed under http://creativecommons.org/licenses/by-nc/4.0/))
 
 Ensatina:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/109206263/large.jpg
@@ -70,8 +71,8 @@ Sockeye:
   src: https://www.gbif.org/tools/zoom/simple.html?src=//api.gbif.org/v1/image/cache/occurrence/4946648831/media/25aba3d9aff17ed809e0c65d3dcb02b8
   caption: "[*Oncorhynchus nerka* (Walbaum, 1792)](https://www.gbif.org/occurrence/4946648831) observed in Canada by Joanne Siderius. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
-Pronghorm:
-  src: https://inaturalist-open-data.s3.amazonaws.com/photos/466306414/original.jpeg
+Pronghorn:
+  src: "https://inaturalist-open-data.s3.amazonaws.com/photos/466306414/original.jpeg"
   caption: "[*Antilocapra americana* (Ord, 1815)](https://www.gbif.org/occurrence/5006843564) observed in Canada by jstamper. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 Demo:
