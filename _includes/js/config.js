@@ -27,28 +27,27 @@ var siteConfig = {
         {
             "id": "publisherKey"
         },
-        {
-            "id": "institutionSearch"
-        },
-        {
-            "id": "institutionKey"
-        },
-        {
-            "id": "collectionSearch"
-        },
-        {
-            "id": "collectionKey"
-        },
+        // {
+        //     "id": "institutionSearch"
+        // },
+        // {
+        //     "id": "institutionKey"
+        // },
+        // {
+        //     "id": "collectionSearch"
+        // },
+        // {
+        //     "id": "collectionKey"
+        // },
     ],
     "disableInlineTableFilterButtons": false,
     "availableCatalogues": [
         "OCCURRENCE",
         "DATASET",
         "LITERATURE",
-        // do the ones below here make sense?
         "PUBLISHER",
-        "INSTITUTION",
-        "COLLECTION",
+        // "INSTITUTION",
+        // "COLLECTION",
     ],
     "dataHeader": {
         "enableApiPopup": false,
@@ -60,16 +59,18 @@ var siteConfig = {
         "stickyOffset": "0px"
     },
     "maps": {
-        "mapStyles": {
-            "defaultProjection": "MERCATOR",
-            "defaultMapStyle": "BRIGHT",
-            "options": {
-                "MERCATOR": [
-                    "BRIGHT",
-                    "NATURAL"
-                ]
-            }
-        }
+        locale: 'en',
+        mapStyles: {
+            defaultProjection: 'MERCATOR',
+            defaultMapStyle: 'BRIGHT',
+            options: {
+                // just remove individual lines to remove that projection option
+                ARCTIC: ['NATURAL', 'BRIGHT'],
+                PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
+                MERCATOR: ['NATURAL', 'BRIGHT', 'DARK'],
+                ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK'],
+            },
+        },
     },
     "languages": [
         {
@@ -110,6 +111,9 @@ var siteConfig = {
     ],
     "messages": {},
     "occurrenceSearch": {
+        mapSettings: {
+            userLocationEnabled: false,// show an option on the occurrence map to zoom to the users location
+        },
         "scope": {
             "type": "and",
             "predicates": [
@@ -146,6 +150,7 @@ var siteConfig = {
             "recordedBy",
             "identifiedBy"
         ],
+        defaultTab: 'table',
         "tabs": [
             "table",
             "gallery",
@@ -191,6 +196,6 @@ var siteConfig = {
             "key": "gbifNetworkKey",
             "value": vertnetNetworkKey
         },
-          highlightedFilters: ['q', 'gbifTaxonKey', 'year']
+        highlightedFilters: ['q', 'gbifTaxonKey', 'year']
     }
 };
