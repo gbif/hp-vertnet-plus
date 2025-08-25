@@ -18,5 +18,5 @@ filters:
   limit: 3
 
   # Filter content by country or coverage using ISO country codes. (Optional)
-  countriesOfCoverage:
-    - CA
+ # countriesOfCoverage:
+ #   - CA
