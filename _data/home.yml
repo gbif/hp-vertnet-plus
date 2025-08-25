@@ -23,7 +23,7 @@ about:
       VertNet makes vertebrate-based biodiversity information available to everyone - for free. We are a network of individuals, organizations and institutions that explore, study and care about and share vetrebrate species data globally.
   # img required
   background: "{{site.data.images.Sockeye.src}}"
-  imageLicense: "{{site.data.images.Sockey.caption}}"
+  imageLicense: "{{site.data.images.Sockeye.caption}}"
   ratio: 70
 
 explorer:
