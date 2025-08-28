@@ -4,16 +4,28 @@ lang: en
 lang-ref: home
 layout: home
 title: Welcome to VertNet
-description: Biodiversity data with backbone!
+description: |
+  Biodiversity data with backbone!
+  <div>
+    <form action="/occurrence/search" type="get">
+      <div class="field" style="display: flex;">
+        <input type="text" placeholder="Full text record search" name="q" class="input" />
+        <button type="submit" class="button is-primary ml-4">Search</button>
+      </div>
+    </form>
+    <div class="mt-4">
+      <a href="/post/2025/vertnet-is-all-new">Why is Everything Different?</a>
+    </div>
+  </div>
 background: "{{site.data.images.VNCollage3.src}}"
 imageLicense: "{{site.data.images.VNCollage3.caption}}"
 height: 75vh
 cta:
-  - text: Search
-    href: occurrence/search
-    isPrimary: true
-  - text: Why is Everything Different?
-    href: /post/2025/vertnet-is-all-new
+  # - text: Search
+  #   href: occurrence/search
+  #   isPrimary: true
+  # - text: Why is Everything Different?
+  #   href: /post/2025/vertnet-is-all-new
 #  - text: Learn more
 #    href: /about
 #  - text: VertNet Classic
