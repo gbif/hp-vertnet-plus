@@ -15,6 +15,10 @@ filters:
   # Set the number of items to showcase. Default is 6.
   limit: 3
 
-  # Filter content by researcher's country using ISO country codes. (Optional)
-  # purpose: 
-  #  - DATA_PUBLISHERS
+  # Examples
+  # You could also filter by purposes:
+  # purposes: 
+  #  - DATA_PUBLISHING
+  # You could also filter by audiences
+  # audiences: 
+  #  - DATA_USERS
