@@ -1,19 +1,77 @@
-partners1:
-  klass: my-custom-identifier-for-styling
-  # title: Partners
-  description: |
-    A special shout out to the following organizations for their on-going support and services.
+stats:
   features:
-    - description: GitHub
-      background: /assets/images/GitHub-Octocat-361x300.png
-      href: /about
-    - description: The Field Museum
-      background: /assets/images/field-museum-logo-300x300.png
-    - description: GBIF
-      background: /assets/images/GBIF-2015-300x199.png
-    - description: Carto
-      background: /assets/images/CARTO-logo-positive-767x300.png
-partners2: 
+      # the API v1 is easier to use than graphql and in this case we can ask what we want from api v1
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=99d66b6c-9087-452f-a9d4-f15f2c2d0e7e&taxonKey=44&limit=0">24.000.000</span>
+      description: Occurrences
+      href: /occurrence/search
+      background: /assets/images/example/occurrence_icon.png
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?networkKey=99d66b6c-9087-452f-a9d4-f15f2c2d0e7e&limit=0">600</span>
+      description: Datasets
+      background: /assets/images/example/dataset_icon.png
+      href: /dataset/search
+      # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?networkKey=99d66b6c-9087-452f-a9d4-f15f2c2d0e7e&limit=0">100</span>
+      #could also use "https://api.catalogueoflife.org/dataset/2304/tree/x4/children?extinct=true&type=SOURCE&limit=1000" or "https://api.catalogueoflife.org/dataset/2304/tree/x4?catalogueKey=3&extinct=true"
+      description: Publishers
+      background: /assets/images/example/publisher_icon.png
+      href: /publisher/search
+
+about:
+  klass: homeSplit aboutSplit
+  reverse: true
+  title: Vertebrates, all day, every day
+  description: |      # required
+      VertNet makes vertebrate-based biodiversity information available to everyone - for free. We are a network of individuals, organizations and institutions that explore, study and care about and share vetrebrate species data globally.
+  # img required
+  background: "{{site.data.images.Sockeye.src}}"
+  imageLicense: "{{site.data.images.Sockeye.caption}}"
+  cta:
+  - text: Learn More
+    href: /about
+    isPrimary: true
+
+explorer:
+  klass: homeSplit
+  reverse: false
+  title: Data Discovery
+  description: |
+      Access, browse, visualize and filter vertebrate data
+  background: "{{site.data.images.Pronghorn.src}}"
+  imageLicense: "{{site.data.images.Pronghorn.caption}}"
+  ratio: 70
+  #href: /occurrence/search?view=MAP
+  cta:
+  - text: Occurrences
+    href: /occurrence/search
+    isPrimary: true
+  - text: Collections
+    href: /collection/search
+  - text: Datasets
+    href: /dataset/search
+  - text: Institutions
+    href: /institutions/search
+  - text: Litrerature
+    href: /literature/search
+
+resources:
+  klass: homeSplit
+  reverse: true
+  title: Get involved
+  description: |
+      Explore our documentation, discover tools and contact us so we can help you to share your data with the global biodiversity data-sharing community - we work with all taxa
+  background: "{{site.data.images.CaliQuail.src}}"
+  imageLicense: "{{site.data.images.CaliQuail.caption}}"
+  ratio: 70
+  cta:
+  - text: Help & How To
+    href: /resources/help/
+    isPrimary: true
+  - text: Tools
+    href: /resources/datasets-tools/
+  - text: Share Your Data
+    href: /resources/share-data/
+
+partners2:
   markdownContent: |
     Many thanks to our project partners for their time, energy, and support.
 

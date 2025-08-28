@@ -4,27 +4,22 @@ $navbar-item-img-max-height: 2.6rem; // related to https://github.com/gbif/hoste
 @import "theme/_main";
 
 // You can add additional styling here
-.my-custom-identifier-for-styling {
-  border: 10px solid gold;
-  border-width: 10px 0;
-}
-.some-example-logo-class {
-  display: flex;
-  align-items: flex-start;
-  img {
-    width: 60px;
-    margin-right: 12px;
+.homeSplit {
+  border: none!important;
+  margin-bottom: 12px;
+  max-width: 1200px;
+  padding: 12px;
+  .feature-img {
+    border-radius: 10px;
+    overflow: hidden;
   }
 }
+.aboutSplit {
+  margin-top: 24px;
+}
 
-// some styling to control iage sizes and position on the partners page. The class .partners is there because we add it in the frontmatter using "klass: partners"
-.partners {
-  table {
-    td {
-      vertical-align: middle!important;
-    }
-    img {
-      max-width: 90px;
-    }
+.home {
+  .floatingHero .feature-pre-title {
+    font-size: 19px;
   }
 }
