@@ -29,7 +29,7 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 
 ## The Norms
 
-### GIVE CREDIT WHERE CREDIT IS DUE
+### Give credit where credit is due
 As is common practice in scientific research, cite the resources you are using. VertNet data publishers have invested considerable time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
 
 ### Be responsible
