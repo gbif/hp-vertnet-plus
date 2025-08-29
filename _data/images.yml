@@ -75,6 +75,31 @@ Pronghorn:
   src: "https://inaturalist-open-data.s3.amazonaws.com/photos/466306414/original.jpeg"
   caption: "[*Antilocapra americana* (Ord, 1815)](https://www.gbif.org/occurrence/5006843564) observed in Canada by jstamper. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
+Occurrences:
+  src: /assets/images/OccurrencePT_Icon.png
+  caption: ""
+
+Datasets:
+  src: /assets/images/List_Icon.png
+  caption: ""
+
+Publishers:
+  src: /assets/images/Network_Icon.png
+  caption: ""
+
 Demo:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/462409709/original.jpg
   caption: "[*Callipepla californica* (Shaw, 1798)](https://www.gbif.org/occurrence/5006843564) observed in United States of America by M.R. Perry. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
+Demo:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/462409709/original.jpg
+  caption: "[*Callipepla californica* (Shaw, 1798)](https://www.gbif.org/occurrence/5006843564) observed in United States of America by M.R. Perry. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
+Demo:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/462409709/original.jpg
+  caption: "[*Callipepla californica* (Shaw, 1798)](https://www.gbif.org/occurrence/5006843564) observed in United States of America by M.R. Perry. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
+Demo:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/462409709/original.jpg
+  caption: "[*Callipepla californica* (Shaw, 1798)](https://www.gbif.org/occurrence/5006843564) observed in United States of America by M.R. Perry. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
