@@ -3,17 +3,17 @@ stats:
       # the API v1 is easier to use than graphql and in this case we can ask what we want from api v1
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?networkKey=99d66b6c-9087-452f-a9d4-f15f2c2d0e7e&limit=0">600</span>
       description: Datasets
-      # background: /assets/images/some-icon-perhaps.png
+      background: /assets/images/List_Icon.png
       href: /dataset/search
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=99d66b6c-9087-452f-a9d4-f15f2c2d0e7e&taxonKey=44&limit=0">24.000.000</span>
       description: Occurrences
       href: /occurrence/search
-      # background: /assets/images/some-icon-perhaps.png
+      background: /assets/images/OccurrencePT_Icon.png
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?networkKey=99d66b6c-9087-452f-a9d4-f15f2c2d0e7e&limit=0">100</span>
       #could also use "https://api.catalogueoflife.org/dataset/2304/tree/x4/children?extinct=true&type=SOURCE&limit=1000" or "https://api.catalogueoflife.org/dataset/2304/tree/x4?catalogueKey=3&extinct=true"
       description: Publishers
-      # background: /assets/images/some-icon-perhaps.png
+      background: /assets/images/Network_Icon.png
       href: /publisher/search
 
 about:
