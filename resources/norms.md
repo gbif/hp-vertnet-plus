@@ -11,13 +11,13 @@ toc: true
 permalink: /resources/norms.html
 ---
 
-## NORMS FOR DATA USE AND PUBLICATION
+## Norms for Data Use and Publication
 
 This document describes the VertNet norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered code of conduct that anyone who publishes data to or uses data downloaded from VertNet are expected to uphold. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
 VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their efforts to develop [the norms](https://community.canadensys.net/about/norms) upon which this document is based.
 
-### WHAT WE BELIEVE
+### What we believe
 * Biodiversity data should be as complete, discoverable, and accessible as possible.
 * Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
 * Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](/resources/datalicensingguide/#what-can-be-protected-by-copyright-and-licensing)).
@@ -27,15 +27,15 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 * All data publishers should get the credit they deserve when the data they curate are used by others.
 * It is worth the time and effort to achieve these goals to the greatest extent possible.
 
-## THE NORMS
+## The Norms
 
 ### GIVE CREDIT WHERE CREDIT IS DUE
 As is common practice in scientific research, cite the resources you are using. VertNet data publishers have invested considerable time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
 
-### BE RESPONSIBLE
+### Be responsible
 Use the data responsibly. Data are published to VertNet and other biodiversity portals to allow you and everyone else to better study and understand the world in which we live. It is your responsibility to use these data for the benefit of our collective health, knowledge, and self-improvement. Avoid using these data in any way that is unlawful, harmful, or misleading. Please understand that these data are subject to change, error, and bias. When giving credit where credit is due, protect the reputation of the data publisher and indicate clearly any changes you may have made to the data.
 
-### SHARE KNOWLEDGE
+### Share knowledge
 Let VertNet data publishers and the broader community know if — and how — you have used data from the network. Sharing helps:
 
 * VertNet to understand value of this project to you and the community and to create better tools and services for your use.
@@ -51,14 +51,14 @@ Communicate with the data publisher(s) directly. Let them know if you have comme
 * Contact the data publisher directly using the contact information provided within each dataset published through VertNet or GBIF.
 * Use the [feedback form](PENDING PAGE) provided at the top of every VertNet web page.
 
-### RESPECT THE DATA LICENSE OR WAIVER
+### Respect the data license or waiver
 Understand and respect the data license or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the rights field of every record and in the dataset metadata. In some cases, data publishers have published using non-standard terms of use. These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
 
 To help data publishers make the best decision about how to license or waive rights to their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](/resources/datalicensingguide/). Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Do not remove the public domain mark or provide misleading information about the copyright status.
 
-### DATA PUBLICATION CONDITIONS
+### Data publication conditions
 We invite any institution with biological or natural history collections (not just vertebrate collections) to join our growing community of data publishers. To publish data to the VertNet network you will need:
 
 * Digitized biological or natural history data.
@@ -67,46 +67,46 @@ We invite any institution with biological or natural history collections (not ju
 
 If you have all three, or if you have questions, please contact [us](/contact/) and we’ll get you and your data started on the path to publication and discovery.
 
-### PREFERRED CITATIONS
+### Preferred citations
 In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through VertNet. Square brackets denote values that must be obtained either from records within a dataset or from the description of the dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
 
-### SINGLE DATASET
-#### GENERAL FORMAT
+### Single dataset
+#### General format
 > \[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])
 
-**EXAMPLE**
+**Example**
 > Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 
-#### AGGREGATED DATA (FROM MULTIPLE DATASETS)
+#### Aggregated data (from multiple datasets)
 Cite each data publisher in the aggregate using the single dataset citation format described above.
 
-**EXAMPLE**
+**Example**
 > Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
 University of Kansas Bird Collection. University of Kansas Biodiversity Institute. http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_ornithology (accessed on 2014-07-28)
 
-#### SINGLE SPECIMEN/OBSERVATION RECORD
+#### Single specimen/observation record
 VertNet includes the text of a record citation in the bibliographicCitation field in the record itself for all data publishers who provide this information. If the record has a value in the bibliographicCitation field, construct the full citation by appending information about the date the data were accessed. If the record does not contain a value for bibliographicCitation, use the appropriate format described below.
 
-##### IF THE BIBLIOGRAPHICCITATION IS PROVIDED IN THE RECORD:
+##### If the bibliographic citations is provided int he record:
 > \[bibliographicCitation\] (accessed on [date])
 
-**EXAMPLE**
+**Example**
 > urn:catalog:CM:Herps:105730. Carnegie Museum of Natural History Herpetology Collection. Carnegie Museums. http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps (accessed on 2014-07-28)
 
-##### IF THERE IS NO BIBLIOGRAPHICCITATION, BUT OCCURRENCEID IS PROVIDED IN THE RECORD:
+##### If there is no bibliographic citation, but occurrenceID is provided in the record:
 > \[occurrenceID\]. \[dataset name\]. \[data publisher\]. \[link to dataset\] (accessed on [date])
 
-**EXAMPLE**
+**Example**
 > urn:catalog:CM:Herps:105730. AMNH Mammal Collection. American Museum of Natural History. http://ipt.vertnet.org:8080/ipt/resource.do?r=amnh_mammals (accessed on 2014-07-28)
 
-##### IF THERE IS NO BIBLIOGRAPHICCITATION OR OCCURRENCEID PROVIDED IN THE RECORD:
+##### If there is no bibliographic citation or occurrenceID provided in the record:
 > [catalogNumber]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
-**EXAMPLE**
+**Example**
 > <div>105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)</div>
 
-#### WHERE CAN I FIND THE ELEMENTS TO CREATE A CITATION?
+#### Where can I find the elements to create a citation?
 All the elements can be found in fields contained within downloaded records or in the description of the dataset (i.e., the metadata) from which the record originates:
 
 * \[bibliographicCitation\]: in the field [bibliographicCitation](http://rs.tdwg.org/dwc/terms/#bibliographicCitation) in the record.
