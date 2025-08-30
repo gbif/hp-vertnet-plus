@@ -222,7 +222,8 @@ var siteConfig = {
             "collectionCode",
             "stateProvince",
             "country",
-            "eventDate"
+            "eventDate",
+            "catalogNumber"
         ],
         "excludedFilters": [
             "protocol",
@@ -266,14 +267,11 @@ var siteConfig = {
         ]
         */
         "defaultEnabledTableColumns": [
-            "features",
-            "institutionKey",
-            "collectionKey",
-            "catalogNumber",
+            "institutionCode",
+            "stateProvince",
             "country",
-            "year",
-            "recordedBy",
-            "identifiedBy"
+            "eventDate",
+            "features"
         ],
         defaultTab: 'table',
         "tabs": [
