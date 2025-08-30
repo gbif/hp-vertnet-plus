@@ -217,7 +217,7 @@ var siteConfig = {
         // ],
         "highlightedFilters": [
             "basisOfRecord",
-            "taxonkey",
+            "taxonKey",
             "institutionCode",
             "collectionCode",
             "stateProvince",
