@@ -217,7 +217,7 @@ var siteConfig = {
         // ],
         "highlightedFilters": [
             "basisOfRecord",
-            "scientificName",
+            "taxonkey",
             "institutionCode",
             "collectionCode",
             "stateProvince",
@@ -267,8 +267,9 @@ var siteConfig = {
         ]
         */
         "defaultEnabledTableColumns": [
+            "scientificName",
             "institutionCode",
-            "stateProvince",
+            "higherGeography",
             "country",
             "eventDate",
             "features"
