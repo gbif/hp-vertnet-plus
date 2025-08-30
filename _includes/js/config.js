@@ -216,6 +216,7 @@ var siteConfig = {
         //     "distanceFromCentroidInMeters"
         // ],
         "highlightedFilters": [
+            "collectionCode",
             "basisOfRecord",
             "taxonKey",
             "gadmGid",
