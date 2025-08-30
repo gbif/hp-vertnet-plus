@@ -5,8 +5,7 @@ lang-ref: home
 layout: home
 title: Welcome to VertNet
 description: |
-  Biodiversity data with backbone!
-  <div>
+  <div class="mt-6">
     <form action="/occurrence/search" type="get">
       <div class="field" style="display: flex;">
         <input type="text" placeholder="Full text record search" name="q" class="input" />
@@ -14,7 +13,7 @@ description: |
       </div>
     </form>
     <div class="mt-4">
-      <a href="/post/2025/vertnet-is-all-new">Why is Everything Different?</a>
+      <a href="/post/2025/vertnet-is-all-new"><b>Why is Everything Different?</b></a>
     </div>
   </div>
 background: "{{site.data.images.VNCollage3.src}}"
@@ -24,7 +23,7 @@ cta:
   # - text: Search
   #   href: occurrence/search
   #   isPrimary: true
-  # - text: **Why is Everything Different?**
+  # - text: Why is Everything Different?
   #   href: /post/2025/vertnet-is-all-new
 #  - text: Learn more
 #    href: /about
