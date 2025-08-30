@@ -270,6 +270,7 @@ var siteConfig = {
             "scientificName",
             "institutionKey",
             "stateProvince",
+            "country",
             "eventDate",
             "features"
         ],
