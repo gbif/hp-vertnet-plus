@@ -3,7 +3,10 @@ layout: heroImage
 lang: en
 lang-ref: home
 layout: home
-preTitle: Welcome to VertNet
+preTitle: |
+    <div class="mt-4">
+      <font size=20><b>Welcome to VertNet</b></font>
+    </div>
 title: Biodiversity data with backbone!
 description: |
   <div class="mt-6">
