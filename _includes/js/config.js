@@ -216,12 +216,13 @@ var siteConfig = {
         //     "distanceFromCentroidInMeters"
         // ],
         "highlightedFilters": [
-            "collectionCode",
             "basisOfRecord",
-            "taxonKey",
-            "gadmGid",
+            "scientificName",
             "institutionCode",
-            "year"
+            "collectionCode",
+            "stateProvince",
+            "country"
+            "eventDate"
         ],
         "excludedFilters": [
             "protocol",
