@@ -3,7 +3,8 @@ layout: heroImage
 lang: en
 lang-ref: home
 layout: home
-title: Welcome to VertNet
+preTitle: Welcome to VertNet
+title: Biodiversity data with backbone!
 description: |
   <div class="mt-6">
     <form action="/occurrence/search" type="get">
