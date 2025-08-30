@@ -5,7 +5,7 @@ lang-ref: home
 layout: home
 preTitle: |
     <div class="mt-4">
-      <font size=20><b>Welcome to VertNet</b></font>
+      <font size=12><b>Welcome to VertNet</b></font>
     </div>
 title: Biodiversity data with backbone!
 description: |
