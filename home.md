@@ -24,7 +24,7 @@ cta:
   # - text: Search
   #   href: occurrence/search
   #   isPrimary: true
-  # - text: Why is Everything Different?
+  # - text: **Why is Everything Different?**
   #   href: /post/2025/vertnet-is-all-new
 #  - text: Learn more
 #    href: /about
