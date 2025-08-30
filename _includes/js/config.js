@@ -221,7 +221,7 @@ var siteConfig = {
             "institutionCode",
             "collectionCode",
             "stateProvince",
-            "country"
+            "country",
             "eventDate"
         ],
         "excludedFilters": [
