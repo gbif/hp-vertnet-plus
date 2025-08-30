@@ -268,7 +268,8 @@ var siteConfig = {
         */
         "defaultEnabledTableColumns": [
             "scientificName",
-            "institutionCode",
+            "institutionKey",
+            "stateProvince",
             "higherGeography",
             "country",
             "eventDate",
