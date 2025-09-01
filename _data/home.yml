@@ -17,6 +17,7 @@ stats:
       href: /publisher/search
 
 about:
+  klass: aboutSplit
   reverse: true
   title: Vertebrates, all day, every day
   description: |      # required

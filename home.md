@@ -1,7 +1,7 @@
 ---
-layout: heroImage
 lang: en
 lang-ref: home
+# klass: home # this line adds a css class to the entire landing page and so applies the styling in main.scss
 layout: home
 preTitle: Welcome to VertNet
 title: Biodiversity data with backbone!

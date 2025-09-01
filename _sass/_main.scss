@@ -5,22 +5,27 @@ $navbar-dropdown-arrow: #4a4a4a;
 @import "theme/_main";
 
 // You can add additional styling here
-.homeSplit {
-  border: none!important;
-  margin-bottom: 12px;
-  max-width: 1200px;
-  padding: 12px;
-  .feature-img {
-    border-radius: 10px;
-    overflow: hidden;
-  }
-}
-.aboutSplit {
-  margin-top: 24px;
-}
 
+// Specific styling of the home page
 .home {
   .floatingHero .feature-pre-title {
     font-size: 19px;
+  }
+  .splitBanner {
+    border: none!important;
+    margin-bottom: 12px;
+    max-width: 1200px;
+    padding: 12px;
+    .feature-img {
+      border-radius: 10px;
+      overflow: hidden;
+    }
+  }
+  .aboutSplit {
+    margin-top: 24px;
+  }
+
+  .feature-cards .feature {
+    border-radius: 10px;
   }
 }

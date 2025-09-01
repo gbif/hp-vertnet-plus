@@ -31,11 +31,11 @@ composition:
   # - type: features
   #   data: example.guide
   - type: split
-    data: example.about
+    data: home.about
   - type: split
-    data: example.explorer
+    data: home.explorer
   - type: split
-    data: example.resources
+    data: home.resources
   - type: latestPosts
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---

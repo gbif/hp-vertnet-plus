@@ -17,7 +17,7 @@ stats:
       href: /publisher/search
 
 about:
-  klass: homeSplit aboutSplit
+  klass: aboutSplit
   reverse: true
   title: Vertebrates, all day, every day
   description: |      # required
@@ -31,7 +31,6 @@ about:
     isPrimary: true
 
 explorer:
-  klass: homeSplit
   reverse: false
   title: Data Discovery
   description: |
@@ -54,7 +53,6 @@ explorer:
     href: /literature/search
 
 resources:
-  klass: homeSplit
   reverse: true
   title: Get involved
   description: |
