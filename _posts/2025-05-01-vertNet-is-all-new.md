@@ -39,7 +39,7 @@ Now that we’re sharing GBIF’s infrastructure, the portal will be maintained 
 Happy Data Users: 1, Frustration: 0
 
 ### More records
-Yep, an increase in the number of vertebrate records - now ~25 million from 137 data publishers and growing. That’s several million more records than were available just last week. Plus, we’re working to add as many publishers of vertebrate data to GBIF as possible.
+Yep, an increase in the number of vertebrate records - now ~25 million from 137 data publishers and growing (probably even more now that you are reading this). That’s several million more records than were available just last week. Plus, we’re working to add as many publishers of vertebrate data to GBIF as possible.
  
 ### Up-to-date data on demand
 The portal now pulls data directly from the GBIF data index. That means that whenever data are updated in GBIF they will also be updated in VertNet automatically and simultaneously. Gone are the days when VertNet, GBIF, iDigBio and other portals were all working with different versions of the data (well, at least for VertNet and GBIF).  
@@ -63,6 +63,8 @@ With this new infrastructure we can maintain this portal and the VertNet website
 
 ### The old, simple VertNet interface
 Yeah, this one hurts us, too. We really loved that easy-to-use search bar, but we had to make a choice; keep the search bar and let the rest of the portal fall to pieces OR drop the search field (for now) and give a functional, stable, sustainable portal with more records, media and images, a map, expanded search options and DOIs to you. Which would you choose? Perhaps one day we’ll have the resources to integrate it into the new portal. In the meantime, we’ll all just have to suffer through all of those other benefits and advantages.
+
+**Update** As of early September, 2025, we managed to bring back the simple search bar. It now lives on the VertNet home page. It will take some time for it to have the same features of the original search bar, but it's a great way to start your search. New features, and some of the old, will be added over time.
  
 ### Trait search
 Another sad loss for us. The good news is that GBIF is interested in adding this feature to their services, but that’s going to take some time to rise on their priority list. We’ll keep pestering them about this one because we know you use it and because we know it’s useful. Don’t forget you can access even more data about traits in other spots, such as the [FuTRES portal](https://futres-data-interface.netlify.app/){:target="_blank"}.
