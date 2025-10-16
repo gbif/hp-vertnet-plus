@@ -13,6 +13,8 @@ dataUse:
   filters:
     contentType: 
       - DATA_USE
+    purposes:
+      - DATA_PUBLISHING
     # Set the number of items to showcase. Default is 6.
     limit: 3
 
@@ -24,13 +26,13 @@ dataUse:
     # audiences: 
     #  - DATA_USERS
 
-audiences:
-  title: "audiences example" 
-  id: "stories-data-use-audiences"
-  description:  exmple entry
-  filters:
-    contentType: 
-      - DATA_USE
-    audiences:
-      - DATA_USERS
-    limit: 3
+# audiences:
+  # title: "audiences example" 
+  # id: "stories-data-use-audiences"
+  # description:  exmple entry
+  # filters:
+    # contentType: 
+      # - DATA_USE
+    # audiences:
+      # - DATA_USERS
+    # limit: 3
