@@ -44,8 +44,8 @@ explorer:
     href: /collection/search
   - text: Datasets
     href: /dataset/search
-  - text: Institutions
-    href: /institutions/search
+  - text: Publishers
+    href: /publisher/search
   - text: Litrerature
     href: /literature/search
 
