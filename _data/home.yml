@@ -40,8 +40,6 @@ explorer:
   - text: Occurrences
     href: /occurrence/search
     isPrimary: true
-  - text: Collections
-    href: /collection/search
   - text: Datasets
     href: /dataset/search
   - text: Publishers
